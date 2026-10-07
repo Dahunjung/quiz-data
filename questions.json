@@ -376,5 +376,18 @@
     "answerIndex": 1,
     "explanation": "사진 속 장소는 제주도의 금능해수욕장 입니다.",
     "image": "images/1791338557328040_0.jpg"
+  },
+  {
+    "id": "s29",
+    "category": "지리",
+    "text": "미국의 수도는?",
+    "options": [
+      "시카고",
+      "뉴욕",
+      "LA",
+      "워싱턴"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
   }
 ]
