@@ -1,0 +1,222 @@
+[
+  {
+    "id": "en_a1",
+    "level": 1,
+    "category": "Animals",
+    "text": "Which animal says \"meow\"?",
+    "options": ["Dog", "Cat", "Cow", "Duck"],
+    "answer": "Cat",
+    "explanation": "Cats meow."
+  },
+  {
+    "id": "en_a2",
+    "level": 1,
+    "category": "Animals",
+    "text": "Which animal has a long trunk?",
+    "options": ["Lion", "Elephant", "Horse", "Bear"],
+    "answer": "Elephant",
+    "explanation": "Elephants use their trunks to grab food and drink water."
+  },
+  {
+    "id": "en_a3",
+    "level": 2,
+    "category": "Animals",
+    "text": "Which animal is often called the king of the jungle?",
+    "options": ["Tiger", "Lion", "Cheetah", "Leopard"],
+    "answer": "Lion",
+    "explanation": "Lions are often called the king of the jungle."
+  },
+  {
+    "id": "en_s1",
+    "level": 1,
+    "category": "Science",
+    "text": "What do plants need to make food?",
+    "options": ["Moonlight", "Sunlight", "Salt", "Plastic"],
+    "answer": "Sunlight",
+    "explanation": "Plants use sunlight in photosynthesis."
+  },
+  {
+    "id": "en_s2",
+    "level": 2,
+    "category": "Science",
+    "text": "What planet do we live on?",
+    "options": ["Mars", "Venus", "Earth", "Jupiter"],
+    "answer": "Earth",
+    "explanation": "Earth is our home planet."
+  },
+  {
+    "id": "en_s3",
+    "level": 2,
+    "category": "Science",
+    "text": "Water freezes at about how many degrees Celsius?",
+    "options": ["0", "10", "50", "100"],
+    "answer": "0",
+    "explanation": "Pure water freezes at 0°C."
+  },
+  {
+    "id": "en_m1",
+    "level": 1,
+    "category": "Math",
+    "text": "What is 2 + 3?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5",
+    "explanation": "2 plus 3 equals 5."
+  },
+  {
+    "id": "en_m2",
+    "level": 2,
+    "category": "Math",
+    "text": "How many sides does a triangle have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "explanation": "A triangle has three sides."
+  },
+  {
+    "id": "en_m3",
+    "level": 2,
+    "category": "Math",
+    "text": "What is 10 - 4?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6",
+    "explanation": "10 minus 4 equals 6."
+  },
+  {
+    "id": "en_g1",
+    "level": 1,
+    "category": "Geography",
+    "text": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": "Paris",
+    "explanation": "Paris is the capital of France."
+  },
+  {
+    "id": "en_g2",
+    "level": 1,
+    "category": "Geography",
+    "text": "Which ocean is the largest?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": "Pacific",
+    "explanation": "The Pacific Ocean is the largest."
+  },
+  {
+    "id": "en_g3",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which continent is Egypt mostly in?",
+    "options": ["Asia", "Africa", "Europe", "Australia"],
+    "answer": "Africa",
+    "explanation": "Egypt is in northeastern Africa."
+  },
+  {
+    "id": "en_c1",
+    "level": 1,
+    "category": "General",
+    "text": "How many days are in one week?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7",
+    "explanation": "A week has seven days."
+  },
+  {
+    "id": "en_c2",
+    "level": 2,
+    "category": "General",
+    "text": "What color do you get by mixing blue and yellow?",
+    "options": ["Purple", "Green", "Orange", "Brown"],
+    "answer": "Green",
+    "explanation": "Blue and yellow make green."
+  },
+  {
+    "id": "en_h1",
+    "level": 2,
+    "category": "History",
+    "text": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+    "answer": "George Washington",
+    "explanation": "George Washington was the first U.S. president."
+  },
+  {
+    "id": "en_h2",
+    "level": 3,
+    "category": "History",
+    "text": "In which year did the Titanic sink?",
+    "options": ["1905", "1912", "1920", "1939"],
+    "answer": "1912",
+    "explanation": "The Titanic sank in 1912."
+  },
+  {
+    "id": "en_e1",
+    "level": 1,
+    "category": "English",
+    "text": "What is the opposite of \"hot\"?",
+    "options": ["Warm", "Cold", "Cool", "Spicy"],
+    "answer": "Cold",
+    "explanation": "Cold is the opposite of hot."
+  },
+  {
+    "id": "en_e2",
+    "level": 2,
+    "category": "English",
+    "text": "Which word is a noun?",
+    "options": ["Run", "Quickly", "Apple", "Blue"],
+    "answer": "Apple",
+    "explanation": "Apple names a thing, so it is a noun."
+  },
+  {
+    "id": "en_l1",
+    "level": 2,
+    "category": "Literature",
+    "text": "Who wrote Romeo and Juliet?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+    "answer": "William Shakespeare",
+    "explanation": "Shakespeare wrote Romeo and Juliet."
+  },
+  {
+    "id": "en_flag_japan",
+    "level": 1,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Japan", "Bangladesh", "Palau", "Greenland"],
+    "answer": "Japan",
+    "image": "images/flags/flag_japan.png",
+    "explanation": "A white flag with a red circle is Japan."
+  },
+  {
+    "id": "en_flag_france",
+    "level": 1,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["France", "Italy", "Ireland", "Belgium"],
+    "answer": "France",
+    "image": "images/flags/flag_france.png",
+    "explanation": "Blue, white, and red vertical stripes are the French flag."
+  },
+  {
+    "id": "en_flag_germany",
+    "level": 1,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Belgium", "Germany", "Armenia", "Lithuania"],
+    "answer": "Germany",
+    "image": "images/flags/flag_germany.png",
+    "explanation": "Black, red, and gold horizontal stripes are the German flag."
+  },
+  {
+    "id": "en_flag_korea",
+    "level": 1,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "answer": "South Korea",
+    "image": "images/flags/flag_korea.png",
+    "explanation": "The Taegeukgi is the flag of South Korea."
+  },
+  {
+    "id": "en_flag_usa_name",
+    "level": 2,
+    "category": "Geography",
+    "text": "The United States flag is nicknamed…",
+    "options": ["Union Jack", "Stars and Stripes", "Maple Leaf", "Tricolor"],
+    "answer": "Stars and Stripes",
+    "explanation": "The U.S. flag is often called the Stars and Stripes."
+  }
+]
