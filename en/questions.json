@@ -181,6 +181,26 @@
     "explanation": "A white flag with a red circle is Japan."
   },
   {
+    "id": "en_flag_korea",
+    "level": 1,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "answer": "South Korea",
+    "image": "images/flags/flag_korea.png",
+    "explanation": "The Taegeukgi is the flag of South Korea."
+  },
+  {
+    "id": "en_flag_china",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Vietnam", "China", "Morocco", "Turkey"],
+    "answer": "China",
+    "image": "images/flags/flag_china.png",
+    "explanation": "A red flag with five yellow stars is China."
+  },
+  {
     "id": "en_flag_france",
     "level": 1,
     "category": "Geography",
@@ -189,6 +209,16 @@
     "answer": "France",
     "image": "images/flags/flag_france.png",
     "explanation": "Blue, white, and red vertical stripes are the French flag."
+  },
+  {
+    "id": "en_flag_italy",
+    "level": 1,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Mexico", "Ireland", "Italy", "Hungary"],
+    "answer": "Italy",
+    "image": "images/flags/flag_italy.png",
+    "explanation": "Green, white, and red vertical stripes are the Italian flag."
   },
   {
     "id": "en_flag_germany",
@@ -201,14 +231,104 @@
     "explanation": "Black, red, and gold horizontal stripes are the German flag."
   },
   {
-    "id": "en_flag_korea",
+    "id": "en_flag_netherlands",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Luxembourg", "Russia", "Netherlands", "Croatia"],
+    "answer": "Netherlands",
+    "image": "images/flags/flag_netherlands.png",
+    "explanation": "Red, white, and blue horizontal stripes are the Dutch flag."
+  },
+  {
+    "id": "en_flag_russia",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Slovakia", "Netherlands", "Serbia", "Russia"],
+    "answer": "Russia",
+    "image": "images/flags/flag_russia.png",
+    "explanation": "White, blue, and red horizontal stripes are the Russian flag."
+  },
+  {
+    "id": "en_flag_poland",
     "level": 1,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
-    "options": ["Japan", "China", "South Korea", "Vietnam"],
-    "answer": "South Korea",
-    "image": "images/flags/flag_korea.png",
-    "explanation": "The Taegeukgi is the flag of South Korea."
+    "options": ["Indonesia", "Monaco", "Poland", "Austria"],
+    "answer": "Poland",
+    "image": "images/flags/flag_poland.png",
+    "explanation": "White on top and red on the bottom is Poland."
+  },
+  {
+    "id": "en_flag_indonesia",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Poland", "Indonesia", "Singapore", "Monaco"],
+    "answer": "Indonesia",
+    "image": "images/flags/flag_indonesia.png",
+    "explanation": "Red on top and white on the bottom is Indonesia (the opposite of Poland)."
+  },
+  {
+    "id": "en_flag_ukraine",
+    "level": 1,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Sweden", "Ukraine", "Kazakhstan", "Romania"],
+    "answer": "Ukraine",
+    "image": "images/flags/flag_ukraine.png",
+    "explanation": "Blue on top and yellow on the bottom is Ukraine."
+  },
+  {
+    "id": "en_flag_sweden",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Finland", "Denmark", "Norway", "Sweden"],
+    "answer": "Sweden",
+    "image": "images/flags/flag_sweden.png",
+    "explanation": "A blue flag with a yellow cross is Sweden."
+  },
+  {
+    "id": "en_flag_switzerland",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Denmark", "Switzerland", "United Kingdom", "Georgia"],
+    "answer": "Switzerland",
+    "image": "images/flags/flag_switzerland.png",
+    "explanation": "A red flag with a white cross is Switzerland."
+  },
+  {
+    "id": "en_flag_belgium",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Germany", "Belgium", "Romania", "Chad"],
+    "answer": "Belgium",
+    "image": "images/flags/flag_belgium.png",
+    "explanation": "Black, yellow, and red vertical stripes are the Belgian flag."
+  },
+  {
+    "id": "en_flag_ireland",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Italy", "Ivory Coast", "Ireland", "India"],
+    "answer": "Ireland",
+    "image": "images/flags/flag_ireland.png",
+    "explanation": "Green, white, and orange vertical stripes are the Irish flag."
+  },
+  {
+    "id": "en_flag_nigeria",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Ireland", "Nigeria", "India", "Pakistan"],
+    "answer": "Nigeria",
+    "image": "images/flags/flag_nigeria.png",
+    "explanation": "Green, white, and green vertical stripes are the Nigerian flag."
   },
   {
     "id": "en_flag_usa_name",
