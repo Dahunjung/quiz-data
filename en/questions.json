@@ -37,7 +37,7 @@
   },
   {
     "id": "en_s2",
-    "level": 2,
+    "level": 1,
     "category": "Science",
     "text": "What planet do we live on?",
     "options": ["Mars", "Venus", "Earth", "Jupiter"],
@@ -64,7 +64,7 @@
   },
   {
     "id": "en_m2",
-    "level": 2,
+    "level": 1,
     "category": "Math",
     "text": "How many sides does a triangle have?",
     "options": ["2", "3", "4", "5"],
@@ -148,7 +148,7 @@
     "level": 1,
     "category": "English",
     "text": "What is the opposite of \"hot\"?",
-    "options": ["Warm", "Cold", "Cool", "Spicy"],
+    "options": ["Warm", "Cold", "Wet", "Spicy"],
     "answer": "Cold",
     "explanation": "Cold is the opposite of hot."
   },
@@ -182,7 +182,7 @@
   },
   {
     "id": "en_flag_korea",
-    "level": 1,
+    "level": 2,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Japan", "China", "South Korea", "Vietnam"],
@@ -212,7 +212,7 @@
   },
   {
     "id": "en_flag_italy",
-    "level": 1,
+    "level": 2,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Mexico", "Ireland", "Italy", "Hungary"],
@@ -222,7 +222,7 @@
   },
   {
     "id": "en_flag_germany",
-    "level": 1,
+    "level": 2,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Belgium", "Germany", "Armenia", "Lithuania"],
@@ -232,7 +232,7 @@
   },
   {
     "id": "en_flag_netherlands",
-    "level": 2,
+    "level": 3,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Luxembourg", "Russia", "Netherlands", "Croatia"],
@@ -242,7 +242,7 @@
   },
   {
     "id": "en_flag_russia",
-    "level": 2,
+    "level": 3,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Slovakia", "Netherlands", "Serbia", "Russia"],
@@ -252,7 +252,7 @@
   },
   {
     "id": "en_flag_poland",
-    "level": 1,
+    "level": 2,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Indonesia", "Monaco", "Poland", "Austria"],
@@ -262,7 +262,7 @@
   },
   {
     "id": "en_flag_indonesia",
-    "level": 2,
+    "level": 3,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Poland", "Indonesia", "Singapore", "Monaco"],
@@ -272,7 +272,7 @@
   },
   {
     "id": "en_flag_ukraine",
-    "level": 1,
+    "level": 2,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Sweden", "Ukraine", "Kazakhstan", "Romania"],
@@ -302,7 +302,7 @@
   },
   {
     "id": "en_flag_belgium",
-    "level": 2,
+    "level": 3,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Germany", "Belgium", "Romania", "Chad"],
@@ -312,7 +312,7 @@
   },
   {
     "id": "en_flag_ireland",
-    "level": 2,
+    "level": 3,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Italy", "Ivory Coast", "Ireland", "India"],
@@ -322,7 +322,7 @@
   },
   {
     "id": "en_flag_nigeria",
-    "level": 2,
+    "level": 3,
     "category": "Geography",
     "text": "Which country does this flag belong to?",
     "options": ["Ireland", "Nigeria", "India", "Pakistan"],
@@ -338,5 +338,1166 @@
     "options": ["Union Jack", "Stars and Stripes", "Maple Leaf", "Tricolor"],
     "answer": "Stars and Stripes",
     "explanation": "The U.S. flag is often called the Stars and Stripes."
+  },
+  {
+    "id": "en_a4",
+    "level": 1,
+    "category": "Animals",
+    "text": "Which animal has black and white stripes?",
+    "options": ["Zebra", "Giraffe", "Leopard", "Panda"],
+    "answer": "Zebra",
+    "explanation": "Every zebra has its own unique pattern of black and white stripes."
+  },
+  {
+    "id": "en_a5",
+    "level": 1,
+    "category": "Animals",
+    "text": "Which of these animals can fly?",
+    "options": ["Penguin", "Eagle", "Rabbit", "Turtle"],
+    "answer": "Eagle",
+    "explanation": "Eagles are birds of prey that fly. Penguins are birds, but they cannot fly."
+  },
+  {
+    "id": "en_a6",
+    "level": 2,
+    "category": "Animals",
+    "text": "A baby frog is called a…",
+    "options": ["Cub", "Kid", "Tadpole", "Chick"],
+    "answer": "Tadpole",
+    "explanation": "Tadpoles hatch from eggs in water and later grow into frogs."
+  },
+  {
+    "id": "en_a7",
+    "level": 2,
+    "category": "Animals",
+    "text": "Which is the largest land animal in the world?",
+    "options": ["Giraffe", "Hippopotamus", "Polar bear", "African elephant"],
+    "answer": "African elephant",
+    "explanation": "African elephants can weigh more than 6,000 kg (13,000 lb)."
+  },
+  {
+    "id": "en_a8",
+    "level": 2,
+    "category": "Animals",
+    "text": "Which insect makes honey?",
+    "options": ["Honeybee", "Ant", "Butterfly", "Ladybug"],
+    "answer": "Honeybee",
+    "explanation": "Honeybees turn flower nectar into honey."
+  },
+  {
+    "id": "en_a9",
+    "level": 2,
+    "category": "Animals",
+    "text": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "answer": "8",
+    "explanation": "Spiders have eight legs. Insects have six, so spiders are not insects."
+  },
+  {
+    "id": "en_a10",
+    "level": 3,
+    "category": "Animals",
+    "text": "Which group of animals do whales belong to?",
+    "options": ["Fish", "Reptiles", "Mammals", "Amphibians"],
+    "answer": "Mammals",
+    "explanation": "Whales breathe air with lungs, give birth to live young, and feed their babies milk."
+  },
+  {
+    "id": "en_a11",
+    "level": 3,
+    "category": "Animals",
+    "text": "A group of lions is called a…",
+    "options": ["Pack", "Herd", "Flock", "Pride"],
+    "answer": "Pride",
+    "explanation": "A pride of lions is a family group. Wolves form packs and cattle form herds."
+  },
+  {
+    "id": "en_a12",
+    "level": 3,
+    "category": "Animals",
+    "text": "Which is the largest living bird?",
+    "options": ["Ostrich", "Emu", "Albatross", "Bald eagle"],
+    "answer": "Ostrich",
+    "explanation": "Ostriches can be 2.7 m (9 ft) tall. The albatross has the largest wingspan among flying birds."
+  },
+  {
+    "id": "en_a13",
+    "level": 3,
+    "category": "Animals",
+    "text": "Animals that eat only plants are called…",
+    "options": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
+    "answer": "Herbivores",
+    "explanation": "Herbivores such as cows and rabbits eat plants. Carnivores eat meat."
+  },
+  {
+    "id": "en_a14",
+    "level": 4,
+    "category": "Animals",
+    "text": "Which animal has the largest brain of any animal on Earth?",
+    "options": ["Blue whale", "African elephant", "Sperm whale", "Bottlenose dolphin"],
+    "answer": "Sperm whale",
+    "explanation": "A sperm whale's brain weighs about 8 kg (17 lb), the largest known."
+  },
+  {
+    "id": "en_a15",
+    "level": 4,
+    "category": "Animals",
+    "text": "Which insect goes through complete metamorphosis (egg, larva, pupa, adult)?",
+    "options": ["Grasshopper", "Dragonfly", "Cockroach", "Butterfly"],
+    "answer": "Butterfly",
+    "explanation": "Butterflies change from caterpillar to pupa to adult. Grasshoppers and dragonflies develop through incomplete metamorphosis."
+  },
+  {
+    "id": "en_a16",
+    "level": 4,
+    "category": "Animals",
+    "text": "Which is the only mammal capable of true, sustained flight?",
+    "options": ["Bat", "Flying squirrel", "Sugar glider", "Colugo"],
+    "answer": "Bat",
+    "explanation": "Flying squirrels and gliders only glide. Bats flap their wings to fly."
+  },
+  {
+    "id": "en_a17",
+    "level": 4,
+    "category": "Animals",
+    "text": "Which animal has blue blood because it contains copper-based hemocyanin?",
+    "options": ["Dolphin", "Octopus", "Salmon", "Tortoise"],
+    "answer": "Octopus",
+    "explanation": "An octopus has three hearts and blue blood."
+  },
+  {
+    "id": "en_a18",
+    "level": 5,
+    "category": "Animals",
+    "text": "Which word describes animals that are most active at dawn and dusk?",
+    "options": ["Nocturnal", "Diurnal", "Crepuscular", "Hibernating"],
+    "answer": "Crepuscular",
+    "explanation": "Nocturnal animals are active at night, diurnal ones by day, and crepuscular ones at twilight."
+  },
+  {
+    "id": "en_a19",
+    "level": 5,
+    "category": "Animals",
+    "text": "Which bird is famous for the longest migration of any animal, flying from the Arctic to the Antarctic and back?",
+    "options": ["Albatross", "Swallow", "Canada goose", "Arctic tern"],
+    "answer": "Arctic tern",
+    "explanation": "Arctic terns can travel about 70,000 km (44,000 miles) in a year."
+  },
+  {
+    "id": "en_a20",
+    "level": 5,
+    "category": "Animals",
+    "text": "Which of these mammals lays eggs?",
+    "options": ["Platypus", "Kangaroo", "Koala", "Opossum"],
+    "answer": "Platypus",
+    "explanation": "The platypus and the echidnas are monotremes, the only egg-laying mammals."
+  },
+  {
+    "id": "en_s4",
+    "level": 1,
+    "category": "Science",
+    "text": "What do we call water that has frozen solid?",
+    "options": ["Steam", "Ice", "Cloud", "Rain"],
+    "answer": "Ice",
+    "explanation": "Water turns into ice when it gets cold enough."
+  },
+  {
+    "id": "en_s5",
+    "level": 1,
+    "category": "Science",
+    "text": "Which body part do we use to hear?",
+    "options": ["Eyes", "Nose", "Ears", "Hands"],
+    "answer": "Ears",
+    "explanation": "We hear with our ears and see with our eyes."
+  },
+  {
+    "id": "en_s6",
+    "level": 2,
+    "category": "Science",
+    "text": "What is the closest star to Earth?",
+    "options": ["Sirius", "Polaris", "The Moon", "The Sun"],
+    "answer": "The Sun",
+    "explanation": "The Sun is a star about 150 million km from Earth. The Moon is not a star."
+  },
+  {
+    "id": "en_s7",
+    "level": 2,
+    "category": "Science",
+    "text": "Which gas do humans need to breathe to stay alive?",
+    "options": ["Oxygen", "Helium", "Carbon dioxide", "Hydrogen"],
+    "answer": "Oxygen",
+    "explanation": "We breathe in oxygen and breathe out carbon dioxide."
+  },
+  {
+    "id": "en_s8",
+    "level": 2,
+    "category": "Science",
+    "text": "What force pulls objects toward the ground?",
+    "options": ["Magnetism", "Gravity", "Friction", "Static electricity"],
+    "answer": "Gravity",
+    "explanation": "Gravity pulls objects toward the center of the Earth."
+  },
+  {
+    "id": "en_s9",
+    "level": 2,
+    "category": "Science",
+    "text": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mercury", "Mars", "Saturn"],
+    "answer": "Mars",
+    "explanation": "Iron oxide (rust) on its surface gives Mars its red color."
+  },
+  {
+    "id": "en_s10",
+    "level": 3,
+    "category": "Science",
+    "text": "What is the chemical formula for water?",
+    "options": ["CO₂", "O₂", "NaCl", "H₂O"],
+    "answer": "H₂O",
+    "explanation": "Water has two hydrogen atoms and one oxygen atom. NaCl is table salt."
+  },
+  {
+    "id": "en_s11",
+    "level": 3,
+    "category": "Science",
+    "text": "Which part of a cell contains its DNA?",
+    "options": ["Nucleus", "Ribosome", "Cell wall", "Vacuole"],
+    "answer": "Nucleus",
+    "explanation": "The nucleus is the control center of the cell and stores its DNA."
+  },
+  {
+    "id": "en_s12",
+    "level": 3,
+    "category": "Science",
+    "text": "At sea level, water boils at about how many degrees Celsius?",
+    "options": ["90", "100", "110", "120"],
+    "answer": "100",
+    "explanation": "Water boils at 100°C and freezes at 0°C at normal air pressure."
+  },
+  {
+    "id": "en_s13",
+    "level": 3,
+    "category": "Science",
+    "text": "Which layer of the Earth do we live on?",
+    "options": ["Mantle", "Outer core", "Crust", "Inner core"],
+    "answer": "Crust",
+    "explanation": "The crust is Earth's thin, rocky outer layer."
+  },
+  {
+    "id": "en_s14",
+    "level": 4,
+    "category": "Science",
+    "text": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Go", "Gd", "Au"],
+    "answer": "Au",
+    "explanation": "Au comes from the Latin word aurum. Ag is silver."
+  },
+  {
+    "id": "en_s15",
+    "level": 4,
+    "category": "Science",
+    "text": "Which scientist is famous for the three laws of motion?",
+    "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Johannes Kepler"],
+    "answer": "Isaac Newton",
+    "explanation": "Newton published his laws of motion in 1687."
+  },
+  {
+    "id": "en_s16",
+    "level": 4,
+    "category": "Science",
+    "text": "What type of chemical bond forms when atoms share electrons?",
+    "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+    "answer": "Covalent bond",
+    "explanation": "In a covalent bond, atoms share pairs of electrons. Ionic bonds transfer electrons."
+  },
+  {
+    "id": "en_s17",
+    "level": 4,
+    "category": "Science",
+    "text": "What is the SI unit of force?",
+    "options": ["Joule", "Watt", "Newton", "Pascal"],
+    "answer": "Newton",
+    "explanation": "One newton is the force needed to accelerate 1 kg by 1 m/s². Joule measures energy, watt measures power."
+  },
+  {
+    "id": "en_s18",
+    "level": 5,
+    "category": "Science",
+    "text": "About how fast does light travel in a vacuum?",
+    "options": ["300 km/s", "3,000 km/s", "3,000,000 km/s", "300,000 km/s"],
+    "answer": "300,000 km/s",
+    "explanation": "Light travels about 299,792 km every second."
+  },
+  {
+    "id": "en_s19",
+    "level": 5,
+    "category": "Science",
+    "text": "Which type of electromagnetic radiation has the shortest wavelength?",
+    "options": ["Gamma rays", "Radio waves", "Visible light", "X-rays"],
+    "answer": "Gamma rays",
+    "explanation": "Gamma rays have the shortest wavelength and the highest energy."
+  },
+  {
+    "id": "en_s20",
+    "level": 5,
+    "category": "Science",
+    "text": "What is the name of the boundary around a black hole beyond which nothing, not even light, can escape?",
+    "options": ["Singularity", "Event horizon", "Accretion disk", "Photon sphere"],
+    "answer": "Event horizon",
+    "explanation": "Once something crosses the event horizon, it cannot return."
+  },
+  {
+    "id": "en_m4",
+    "level": 1,
+    "category": "Math",
+    "text": "How many sides does a square have?",
+    "options": ["3", "5", "4", "6"],
+    "answer": "4",
+    "explanation": "A square has four equal sides."
+  },
+  {
+    "id": "en_m5",
+    "level": 1,
+    "category": "Math",
+    "text": "What is 6 − 2?",
+    "options": ["3", "5", "8", "4"],
+    "answer": "4",
+    "explanation": "6 minus 2 equals 4."
+  },
+  {
+    "id": "en_m6",
+    "level": 2,
+    "category": "Math",
+    "text": "What is 7 × 3?",
+    "options": ["21", "18", "24", "28"],
+    "answer": "21",
+    "explanation": "7 times 3 equals 21."
+  },
+  {
+    "id": "en_m7",
+    "level": 2,
+    "category": "Math",
+    "text": "What is half of 20?",
+    "options": ["5", "10", "8", "12"],
+    "answer": "10",
+    "explanation": "20 divided by 2 equals 10."
+  },
+  {
+    "id": "en_m8",
+    "level": 2,
+    "category": "Math",
+    "text": "Which of these numbers is even?",
+    "options": ["15", "17", "14", "19"],
+    "answer": "14",
+    "explanation": "Even numbers can be divided evenly by 2."
+  },
+  {
+    "id": "en_m9",
+    "level": 2,
+    "category": "Math",
+    "text": "How many minutes are in one hour?",
+    "options": ["30", "40", "50", "60"],
+    "answer": "60",
+    "explanation": "One hour has 60 minutes."
+  },
+  {
+    "id": "en_m10",
+    "level": 3,
+    "category": "Math",
+    "text": "What is 12 × 12?",
+    "options": ["144", "124", "132", "156"],
+    "answer": "144",
+    "explanation": "12 times 12 equals 144."
+  },
+  {
+    "id": "en_m11",
+    "level": 3,
+    "category": "Math",
+    "text": "What is 3/4 + 1/4?",
+    "options": ["1/2", "1", "3/4", "5/4"],
+    "answer": "1",
+    "explanation": "When the denominators match, add the numerators: 3/4 + 1/4 = 4/4 = 1."
+  },
+  {
+    "id": "en_m12",
+    "level": 3,
+    "category": "Math",
+    "text": "A rectangle is 5 cm long and 3 cm wide. What is its perimeter?",
+    "options": ["8 cm", "15 cm", "16 cm", "30 cm"],
+    "answer": "16 cm",
+    "explanation": "Perimeter = (5 + 3) × 2 = 16 cm."
+  },
+  {
+    "id": "en_m13",
+    "level": 3,
+    "category": "Math",
+    "text": "Which of these is a prime number?",
+    "options": ["9", "15", "21", "17"],
+    "answer": "17",
+    "explanation": "17 can only be divided by 1 and 17. 9, 15 and 21 are all divisible by 3."
+  },
+  {
+    "id": "en_m14",
+    "level": 4,
+    "category": "Math",
+    "text": "What is the value of x if 2x + 6 = 20?",
+    "options": ["7", "6", "8", "13"],
+    "answer": "7",
+    "explanation": "2x = 14, so x = 7."
+  },
+  {
+    "id": "en_m15",
+    "level": 4,
+    "category": "Math",
+    "text": "What is the area of a circle with a radius of 3?",
+    "options": ["3π", "9π", "6π", "12π"],
+    "answer": "9π",
+    "explanation": "Area = πr² = π × 3² = 9π. The circumference would be 6π."
+  },
+  {
+    "id": "en_m16",
+    "level": 4,
+    "category": "Math",
+    "text": "What is 15% of 200?",
+    "options": ["15", "20", "30", "35"],
+    "answer": "30",
+    "explanation": "0.15 × 200 = 30."
+  },
+  {
+    "id": "en_m17",
+    "level": 4,
+    "category": "Math",
+    "text": "What is the sum of the interior angles of a quadrilateral?",
+    "options": ["180°", "270°", "540°", "360°"],
+    "answer": "360°",
+    "explanation": "A quadrilateral can be split into two triangles, and 2 × 180° = 360°."
+  },
+  {
+    "id": "en_m18",
+    "level": 5,
+    "category": "Math",
+    "text": "What is the value of sin 30°?",
+    "options": ["1/2", "√2/2", "√3/2", "1"],
+    "answer": "1/2",
+    "explanation": "sin 30° = 1/2, sin 45° = √2/2, and sin 60° = √3/2."
+  },
+  {
+    "id": "en_m19",
+    "level": 5,
+    "category": "Math",
+    "text": "What is the derivative of x² with respect to x?",
+    "options": ["x", "2x", "x²", "2"],
+    "answer": "2x",
+    "explanation": "By the power rule, d/dx(x²) = 2x."
+  },
+  {
+    "id": "en_m20",
+    "level": 5,
+    "category": "Math",
+    "text": "What is the sum of the whole numbers from 1 to 100?",
+    "options": ["5000", "5100", "5050", "10100"],
+    "answer": "5050",
+    "explanation": "(1 + 100) × 100 ÷ 2 = 5050, the method young Gauss is said to have used."
+  },
+  {
+    "id": "en_c3",
+    "level": 1,
+    "category": "General",
+    "text": "How many months are in a year?",
+    "options": ["10", "11", "13", "12"],
+    "answer": "12",
+    "explanation": "A year has twelve months, from January to December."
+  },
+  {
+    "id": "en_c4",
+    "level": 1,
+    "category": "General",
+    "text": "What do you use to brush your teeth?",
+    "options": ["A toothbrush", "A comb", "A spoon", "A pencil"],
+    "answer": "A toothbrush",
+    "explanation": "We brush our teeth with a toothbrush and toothpaste."
+  },
+  {
+    "id": "en_c5",
+    "level": 1,
+    "category": "General",
+    "text": "What color do you get by mixing red and white?",
+    "options": ["Brown", "Pink", "Grey", "Purple"],
+    "answer": "Pink",
+    "explanation": "Red mixed with white makes pink."
+  },
+  {
+    "id": "en_c6",
+    "level": 2,
+    "category": "General",
+    "text": "How many colors are there in a rainbow?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7",
+    "explanation": "Red, orange, yellow, green, blue, indigo, and violet."
+  },
+  {
+    "id": "en_c7",
+    "level": 2,
+    "category": "General",
+    "text": "How many hours are there in one day?",
+    "options": ["12", "20", "48", "24"],
+    "answer": "24",
+    "explanation": "A day has 24 hours."
+  },
+  {
+    "id": "en_c8",
+    "level": 2,
+    "category": "General",
+    "text": "Which season comes right after winter?",
+    "options": ["Spring", "Summer", "Autumn", "Winter"],
+    "answer": "Spring",
+    "explanation": "The seasons go winter, spring, summer, autumn."
+  },
+  {
+    "id": "en_c9",
+    "level": 2,
+    "category": "General",
+    "text": "In most countries, what shape is a stop sign?",
+    "options": ["Circle", "Octagon", "Square", "Triangle"],
+    "answer": "Octagon",
+    "explanation": "A stop sign has eight sides, so it is an octagon."
+  },
+  {
+    "id": "en_c10",
+    "level": 3,
+    "category": "General",
+    "text": "How many players from one team are on the field in a soccer match?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11",
+    "explanation": "Each team plays with 11 players, including the goalkeeper."
+  },
+  {
+    "id": "en_c11",
+    "level": 3,
+    "category": "General",
+    "text": "How many rings are on the Olympic flag?",
+    "options": ["3", "4", "6", "5"],
+    "answer": "5",
+    "explanation": "The five rings stand for the five inhabited continents joined together."
+  },
+  {
+    "id": "en_c12",
+    "level": 4,
+    "category": "General",
+    "text": "Which language has the most native speakers in the world?",
+    "options": ["Mandarin Chinese", "English", "Spanish", "Hindi"],
+    "answer": "Mandarin Chinese",
+    "explanation": "Mandarin has about 900 million native speakers. English has the most speakers overall when second-language speakers are counted."
+  },
+  {
+    "id": "en_c13",
+    "level": 3,
+    "category": "General",
+    "text": "What is the currency of Japan?",
+    "options": ["Won", "Yen", "Yuan", "Dollar"],
+    "answer": "Yen",
+    "explanation": "Japan uses the yen. The won is Korean and the yuan is Chinese."
+  },
+  {
+    "id": "en_c14",
+    "level": 3,
+    "category": "General",
+    "text": "How many continents are there in the most commonly taught model?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7",
+    "explanation": "Africa, Antarctica, Asia, Australia/Oceania, Europe, North America, and South America."
+  },
+  {
+    "id": "en_c15",
+    "level": 4,
+    "category": "General",
+    "text": "What does 'GPS' stand for?",
+    "options": ["General Position Signal", "Grand Planet Satellite", "Global Planetary Service", "Global Positioning System"],
+    "answer": "Global Positioning System",
+    "explanation": "GPS uses signals from satellites to work out where you are."
+  },
+  {
+    "id": "en_c16",
+    "level": 4,
+    "category": "General",
+    "text": "Which international organization, headquartered in New York City, was founded in 1945 to promote peace and cooperation?",
+    "options": ["United Nations", "NATO", "World Health Organization", "UNESCO"],
+    "answer": "United Nations",
+    "explanation": "The UN was founded in 1945 after World War II. The WHO is based in Geneva."
+  },
+  {
+    "id": "en_c17",
+    "level": 4,
+    "category": "General",
+    "text": "What is the main purpose of a vaccine?",
+    "options": ["To cure any illness instantly", "To help the body build immunity to a disease", "To replace lost blood", "To kill all bacteria in the body"],
+    "answer": "To help the body build immunity to a disease",
+    "explanation": "Vaccines train the immune system to recognize and fight a germ."
+  },
+  {
+    "id": "en_c18",
+    "level": 5,
+    "category": "General",
+    "text": "In which year was the Universal Declaration of Human Rights adopted by the United Nations?",
+    "options": ["1919", "1945", "1948", "1960"],
+    "answer": "1948",
+    "explanation": "It was adopted on December 10, 1948, after World War II."
+  },
+  {
+    "id": "en_c19",
+    "level": 5,
+    "category": "General",
+    "text": "What does GDP measure?",
+    "options": ["The size of a country's land", "A country's population growth", "The number of people with jobs", "The total value of goods and services a country produces"],
+    "answer": "The total value of goods and services a country produces",
+    "explanation": "Gross domestic product is a common measure of the size of an economy."
+  },
+  {
+    "id": "en_c20",
+    "level": 5,
+    "category": "General",
+    "text": "Which of these countries is NOT a member of the G7?",
+    "options": ["China", "Canada", "Japan", "Italy"],
+    "answer": "China",
+    "explanation": "The G7 is the US, UK, France, Germany, Italy, Japan, and Canada."
+  },
+  {
+    "id": "en_h3",
+    "level": 1,
+    "category": "History",
+    "text": "Which ancient civilization built the pyramids of Giza?",
+    "options": ["Romans", "Ancient Egyptians", "Greeks", "Vikings"],
+    "answer": "Ancient Egyptians",
+    "explanation": "The Great Pyramid of Giza was built about 4,500 years ago."
+  },
+  {
+    "id": "en_h4",
+    "level": 1,
+    "category": "History",
+    "text": "Which country built the Great Wall?",
+    "options": ["Japan", "India", "China", "Egypt"],
+    "answer": "China",
+    "explanation": "Chinese dynasties built and rebuilt the Great Wall over many centuries."
+  },
+  {
+    "id": "en_h5",
+    "level": 1,
+    "category": "History",
+    "text": "Who was the first person to walk on the Moon?",
+    "options": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn", "Neil Armstrong"],
+    "answer": "Neil Armstrong",
+    "explanation": "Neil Armstrong stepped onto the Moon on July 20, 1969, during Apollo 11."
+  },
+  {
+    "id": "en_h6",
+    "level": 2,
+    "category": "History",
+    "text": "Which empire built the Colosseum in Rome?",
+    "options": ["Roman Empire", "Persian Empire", "Ottoman Empire", "Byzantine Empire"],
+    "answer": "Roman Empire",
+    "explanation": "The Colosseum was completed in 80 AD under Roman emperors."
+  },
+  {
+    "id": "en_h7",
+    "level": 2,
+    "category": "History",
+    "text": "What was the title of the rulers of ancient Egypt?",
+    "options": ["Emperor", "Pharaoh", "Sultan", "Shogun"],
+    "answer": "Pharaoh",
+    "explanation": "Pharaohs ruled ancient Egypt for thousands of years."
+  },
+  {
+    "id": "en_h8",
+    "level": 2,
+    "category": "History",
+    "text": "Which explorer is credited with reaching the Americas in 1492 on a voyage for Spain?",
+    "options": ["Marco Polo", "Ferdinand Magellan", "Christopher Columbus", "Vasco da Gama"],
+    "answer": "Christopher Columbus",
+    "explanation": "Columbus landed in the Caribbean in 1492. Vikings had reached North America much earlier."
+  },
+  {
+    "id": "en_h9",
+    "level": 3,
+    "category": "History",
+    "text": "In which year did World War II end?",
+    "options": ["1918", "1939", "1945", "1950"],
+    "answer": "1945",
+    "explanation": "World War II ended in 1945. World War I ended in 1918."
+  },
+  {
+    "id": "en_h10",
+    "level": 3,
+    "category": "History",
+    "text": "Which ancient Greek city-state was famous for its strong warrior culture?",
+    "options": ["Athens", "Corinth", "Thebes", "Sparta"],
+    "answer": "Sparta",
+    "explanation": "Spartan boys trained as soldiers from a young age. Athens was known for philosophy and democracy."
+  },
+  {
+    "id": "en_h11",
+    "level": 3,
+    "category": "History",
+    "text": "What was the name of the ship that carried the Pilgrims to North America in 1620?",
+    "options": ["Mayflower", "Santa Maria", "Endeavour", "Beagle"],
+    "answer": "Mayflower",
+    "explanation": "The Mayflower sailed from England to what is now Massachusetts."
+  },
+  {
+    "id": "en_h12",
+    "level": 4,
+    "category": "History",
+    "text": "Who became the first emperor of Rome?",
+    "options": ["Nero", "Augustus", "Constantine", "Caligula"],
+    "answer": "Augustus",
+    "explanation": "Augustus, Julius Caesar's adopted heir, became the first emperor in 27 BC."
+  },
+  {
+    "id": "en_h13",
+    "level": 4,
+    "category": "History",
+    "text": "Which event is commonly seen as the start of the French Revolution (July 14, 1789)?",
+    "options": ["The coronation of Napoleon", "The execution of Louis XVI", "The storming of the Bastille", "The Paris Commune"],
+    "answer": "The storming of the Bastille",
+    "explanation": "A crowd attacked the Bastille prison in Paris, which became a symbol of revolution."
+  },
+  {
+    "id": "en_h14",
+    "level": 4,
+    "category": "History",
+    "text": "Who led the nonviolent movement for India's independence from British rule?",
+    "options": ["Jawaharlal Nehru", "Muhammad Ali Jinnah", "Rabindranath Tagore", "Mahatma Gandhi"],
+    "answer": "Mahatma Gandhi",
+    "explanation": "Gandhi led campaigns of nonviolent protest. India became independent in 1947."
+  },
+  {
+    "id": "en_h15",
+    "level": 4,
+    "category": "History",
+    "text": "Which wall fell in 1989 and became a symbol of the end of the Cold War in Europe?",
+    "options": ["The Berlin Wall", "The Great Wall of China", "Hadrian's Wall", "The Western Wall"],
+    "answer": "The Berlin Wall",
+    "explanation": "The Berlin Wall divided East and West Berlin from 1961 until 1989."
+  },
+  {
+    "id": "en_h16",
+    "level": 4,
+    "category": "History",
+    "text": "Which ancient people developed cuneiform, one of the earliest known writing systems?",
+    "options": ["Egyptians", "Sumerians", "Romans", "Maya"],
+    "answer": "Sumerians",
+    "explanation": "The Sumerians of Mesopotamia pressed wedge-shaped marks into clay around 3400–3200 BC."
+  },
+  {
+    "id": "en_h17",
+    "level": 5,
+    "category": "History",
+    "text": "In which year was the Magna Carta sealed by King John of England?",
+    "options": ["1066", "1215", "1492", "1688"],
+    "answer": "1215",
+    "explanation": "Magna Carta (1215) limited the power of the king and influenced later constitutions."
+  },
+  {
+    "id": "en_h18",
+    "level": 5,
+    "category": "History",
+    "text": "Which treaty formally ended World War I with Germany in 1919?",
+    "options": ["Treaty of Westphalia", "Treaty of Utrecht", "Treaty of Versailles", "Treaty of Tordesillas"],
+    "answer": "Treaty of Versailles",
+    "explanation": "The Treaty of Versailles was signed on June 28, 1919."
+  },
+  {
+    "id": "en_h19",
+    "level": 5,
+    "category": "History",
+    "text": "In which country did the Industrial Revolution begin in the late 1700s?",
+    "options": ["Germany", "France", "United States", "Great Britain"],
+    "answer": "Great Britain",
+    "explanation": "Britain led the way with steam engines, factories, and textile machines."
+  },
+  {
+    "id": "en_h20",
+    "level": 5,
+    "category": "History",
+    "text": "Which empire, founded by Genghis Khan, became the largest contiguous land empire in history?",
+    "options": ["Mongol Empire", "Ottoman Empire", "Roman Empire", "British Empire"],
+    "answer": "Mongol Empire",
+    "explanation": "At its height in the 13th century, the Mongol Empire stretched from East Asia to Eastern Europe."
+  },
+  {
+    "id": "en_e3",
+    "level": 1,
+    "category": "English",
+    "text": "Which word rhymes with 'cat'?",
+    "options": ["Dog", "Hat", "Cup", "Sun"],
+    "answer": "Hat",
+    "explanation": "Cat and hat both end with the sound -at."
+  },
+  {
+    "id": "en_e4",
+    "level": 1,
+    "category": "English",
+    "text": "What is the plural of 'dog'?",
+    "options": ["Doges", "Dogies", "Dogs", "Dog"],
+    "answer": "Dogs",
+    "explanation": "For most nouns, add -s to make the plural."
+  },
+  {
+    "id": "en_e5",
+    "level": 1,
+    "category": "English",
+    "text": "Which letter comes right after 'B' in the alphabet?",
+    "options": ["A", "D", "E", "C"],
+    "answer": "C",
+    "explanation": "The alphabet goes A, B, C, D…"
+  },
+  {
+    "id": "en_e6",
+    "level": 2,
+    "category": "English",
+    "text": "Choose the correct word: 'She ___ to school every day.'",
+    "options": ["goes", "go", "going", "gone"],
+    "answer": "goes",
+    "explanation": "With she/he/it in the present simple, the verb takes -s or -es."
+  },
+  {
+    "id": "en_e7",
+    "level": 2,
+    "category": "English",
+    "text": "What is the past tense of 'eat'?",
+    "options": ["eated", "ate", "eaten", "eating"],
+    "answer": "ate",
+    "explanation": "Eat is irregular: eat, ate, eaten."
+  },
+  {
+    "id": "en_e8",
+    "level": 2,
+    "category": "English",
+    "text": "Which word means the same as 'big'?",
+    "options": ["Tiny", "Thin", "Large", "Short"],
+    "answer": "Large",
+    "explanation": "Big and large are synonyms."
+  },
+  {
+    "id": "en_e9",
+    "level": 2,
+    "category": "English",
+    "text": "What is the plural of 'child'?",
+    "options": ["Childs", "Childes", "Childrens", "Children"],
+    "answer": "Children",
+    "explanation": "Child has an irregular plural: children."
+  },
+  {
+    "id": "en_e10",
+    "level": 3,
+    "category": "English",
+    "text": "Which sentence is correct?",
+    "options": ["She doesn't like pizza.", "She doesn't likes pizza.", "She don't like pizza.", "She not like pizza."],
+    "answer": "She doesn't like pizza.",
+    "explanation": "After doesn't, use the base form of the verb."
+  },
+  {
+    "id": "en_e11",
+    "level": 3,
+    "category": "English",
+    "text": "In the sentence 'The tall man ran quickly', which word is an adjective?",
+    "options": ["man", "tall", "ran", "quickly"],
+    "answer": "tall",
+    "explanation": "Tall describes the noun man. Quickly is an adverb."
+  },
+  {
+    "id": "en_e12",
+    "level": 3,
+    "category": "English",
+    "text": "What is the opposite of 'ancient'?",
+    "options": ["Old", "Historic", "Modern", "Dusty"],
+    "answer": "Modern",
+    "explanation": "Ancient means very old, so the opposite is modern."
+  },
+  {
+    "id": "en_e13",
+    "level": 3,
+    "category": "English",
+    "text": "Choose the correct word: 'I have ___ umbrella.'",
+    "options": ["a", "two", "many", "an"],
+    "answer": "an",
+    "explanation": "Use an before a vowel sound."
+  },
+  {
+    "id": "en_e14",
+    "level": 4,
+    "category": "English",
+    "text": "Which word is closest in meaning to 'reluctant'?",
+    "options": ["Unwilling", "Eager", "Cheerful", "Careful"],
+    "answer": "Unwilling",
+    "explanation": "Reluctant means unwilling or hesitant. Eager is the opposite."
+  },
+  {
+    "id": "en_e15",
+    "level": 4,
+    "category": "English",
+    "text": "Choose the correct word: 'If I ___ rich, I would travel the world.'",
+    "options": ["am", "were", "be", "been"],
+    "answer": "were",
+    "explanation": "In an unreal present condition, standard English uses were."
+  },
+  {
+    "id": "en_e16",
+    "level": 4,
+    "category": "English",
+    "text": "Which word is spelled correctly?",
+    "options": ["Definately", "Definitly", "Definitely", "Defanitely"],
+    "answer": "Definitely",
+    "explanation": "Definitely contains the word finite."
+  },
+  {
+    "id": "en_e17",
+    "level": 4,
+    "category": "English",
+    "text": "What does the idiom 'break the ice' mean?",
+    "options": ["To damage something fragile", "To ask for help", "To finish a job early", "To start a conversation in an awkward situation"],
+    "answer": "To start a conversation in an awkward situation",
+    "explanation": "It means to ease tension when people first meet."
+  },
+  {
+    "id": "en_e18",
+    "level": 5,
+    "category": "English",
+    "text": "What does 'ubiquitous' mean?",
+    "options": ["Present everywhere", "Extremely rare", "Very ancient", "Dangerous"],
+    "answer": "Present everywhere",
+    "explanation": "Smartphones are ubiquitous: you see them everywhere."
+  },
+  {
+    "id": "en_e19",
+    "level": 5,
+    "category": "English",
+    "text": "Which sentence uses a semicolon correctly?",
+    "options": ["I like tea; but I prefer coffee.", "I like tea; I prefer coffee.", "I like; tea, I prefer coffee.", "I like tea I prefer; coffee."],
+    "answer": "I like tea; I prefer coffee.",
+    "explanation": "A semicolon joins two closely related independent clauses."
+  },
+  {
+    "id": "en_e20",
+    "level": 5,
+    "category": "English",
+    "text": "Which word is the opposite of 'benevolent'?",
+    "options": ["Generous", "Humble", "Malevolent", "Reluctant"],
+    "answer": "Malevolent",
+    "explanation": "Benevolent means kind and well-meaning, and malevolent means wishing harm."
+  },
+  {
+    "id": "en_l2",
+    "level": 1,
+    "category": "Literature",
+    "text": "Who wrote the Harry Potter books?",
+    "options": ["J. R. R. Tolkien", "Roald Dahl", "C. S. Lewis", "J. K. Rowling"],
+    "answer": "J. K. Rowling",
+    "explanation": "J. K. Rowling published the first Harry Potter book in 1997."
+  },
+  {
+    "id": "en_l3",
+    "level": 1,
+    "category": "Literature",
+    "text": "In the story of Cinderella, what does she lose at the ball?",
+    "options": ["A glass slipper", "A crown", "A necklace", "A mask"],
+    "answer": "A glass slipper",
+    "explanation": "The prince finds the owner of the glass slipper."
+  },
+  {
+    "id": "en_l4",
+    "level": 1,
+    "category": "Literature",
+    "text": "In 'The Three Little Pigs', which house is strong enough to stop the wolf?",
+    "options": ["The straw house", "The brick house", "The stick house", "The mud house"],
+    "answer": "The brick house",
+    "explanation": "The wolf blows down the straw and stick houses, but not the brick one."
+  },
+  {
+    "id": "en_l5",
+    "level": 2,
+    "category": "Literature",
+    "text": "Who wrote 'Alice's Adventures in Wonderland'?",
+    "options": ["Roald Dahl", "Hans Christian Andersen", "Lewis Carroll", "A. A. Milne"],
+    "answer": "Lewis Carroll",
+    "explanation": "Lewis Carroll (Charles Dodgson) published it in 1865."
+  },
+  {
+    "id": "en_l6",
+    "level": 2,
+    "category": "Literature",
+    "text": "Where does Peter Pan live?",
+    "options": ["Narnia", "Wonderland", "Oz", "Neverland"],
+    "answer": "Neverland",
+    "explanation": "Peter Pan lives in Neverland with the Lost Boys."
+  },
+  {
+    "id": "en_l7",
+    "level": 2,
+    "category": "Literature",
+    "text": "Which Dr. Seuss character steals Christmas?",
+    "options": ["The Grinch", "The Lorax", "The Cat in the Hat", "Horton"],
+    "answer": "The Grinch",
+    "explanation": "The Grinch tries to take Christmas away from the Whos, but learns its true meaning."
+  },
+  {
+    "id": "en_l8",
+    "level": 3,
+    "category": "Literature",
+    "text": "Who wrote 'Oliver Twist' and 'A Christmas Carol'?",
+    "options": ["Jane Austen", "Charles Dickens", "Mark Twain", "Thomas Hardy"],
+    "answer": "Charles Dickens",
+    "explanation": "Dickens was a Victorian novelist."
+  },
+  {
+    "id": "en_l9",
+    "level": 3,
+    "category": "Literature",
+    "text": "Who is the hero of J. R. R. Tolkien's 'The Hobbit'?",
+    "options": ["Frodo Baggins", "Samwise Gamgee", "Bilbo Baggins", "Gandalf"],
+    "answer": "Bilbo Baggins",
+    "explanation": "Bilbo goes on an adventure with Gandalf and thirteen dwarves."
+  },
+  {
+    "id": "en_l10",
+    "level": 3,
+    "category": "Literature",
+    "text": "Who wrote 'The Adventures of Tom Sawyer'?",
+    "options": ["Jack London", "Ernest Hemingway", "Edgar Allan Poe", "Mark Twain"],
+    "answer": "Mark Twain",
+    "explanation": "Mark Twain is the pen name of Samuel Clemens."
+  },
+  {
+    "id": "en_l11",
+    "level": 3,
+    "category": "Literature",
+    "text": "In 'The Lion, the Witch and the Wardrobe', how do the children enter Narnia?",
+    "options": ["Through a wardrobe", "Through a mirror", "Down a rabbit hole", "On a train"],
+    "answer": "Through a wardrobe",
+    "explanation": "They step through the back of a wardrobe into the magical land."
+  },
+  {
+    "id": "en_l12",
+    "level": 4,
+    "category": "Literature",
+    "text": "Who wrote 'Pride and Prejudice'?",
+    "options": ["Charlotte Brontë", "Jane Austen", "George Eliot", "Mary Shelley"],
+    "answer": "Jane Austen",
+    "explanation": "Jane Austen published it in 1813."
+  },
+  {
+    "id": "en_l13",
+    "level": 4,
+    "category": "Literature",
+    "text": "Which Shakespeare tragedy features a Danish prince seeking revenge for his father's murder?",
+    "options": ["Macbeth", "Othello", "Hamlet", "King Lear"],
+    "answer": "Hamlet",
+    "explanation": "Hamlet is one of Shakespeare's most famous tragedies."
+  },
+  {
+    "id": "en_l14",
+    "level": 4,
+    "category": "Literature",
+    "text": "In George Orwell's '1984', what is the name given to the Party's all-seeing leader?",
+    "options": ["Winston Smith", "O'Brien", "Napoleon", "Big Brother"],
+    "answer": "Big Brother",
+    "explanation": "'Big Brother is watching you' is the novel's famous slogan. Napoleon is the pig leader in Animal Farm."
+  },
+  {
+    "id": "en_l15",
+    "level": 4,
+    "category": "Literature",
+    "text": "Who wrote 'The Great Gatsby'?",
+    "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "William Faulkner"],
+    "answer": "F. Scott Fitzgerald",
+    "explanation": "The novel was published in 1925 and set in Jazz Age America."
+  },
+  {
+    "id": "en_l16",
+    "level": 4,
+    "category": "Literature",
+    "text": "Which author created the detective Sherlock Holmes?",
+    "options": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Raymond Chandler"],
+    "answer": "Arthur Conan Doyle",
+    "explanation": "Holmes first appeared in 'A Study in Scarlet' in 1887."
+  },
+  {
+    "id": "en_l17",
+    "level": 5,
+    "category": "Literature",
+    "text": "Who is traditionally credited as the author of the ancient Greek epic 'The Odyssey'?",
+    "options": ["Virgil", "Sophocles", "Homer", "Plato"],
+    "answer": "Homer",
+    "explanation": "Homer is also credited with the Iliad."
+  },
+  {
+    "id": "en_l18",
+    "level": 5,
+    "category": "Literature",
+    "text": "Which novel begins with the line 'Call me Ishmael.'?",
+    "options": ["Treasure Island", "Robinson Crusoe", "Gulliver's Travels", "Moby-Dick"],
+    "answer": "Moby-Dick",
+    "explanation": "Herman Melville published Moby-Dick in 1851."
+  },
+  {
+    "id": "en_l19",
+    "level": 5,
+    "category": "Literature",
+    "text": "Which Russian author wrote 'Crime and Punishment'?",
+    "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Alexander Pushkin"],
+    "answer": "Fyodor Dostoevsky",
+    "explanation": "The novel follows Raskolnikov after he commits a murder. Tolstoy wrote War and Peace."
+  },
+  {
+    "id": "en_l20",
+    "level": 5,
+    "category": "Literature",
+    "text": "In Dante's 'Divine Comedy', who guides Dante through Hell and Purgatory?",
+    "options": ["Homer", "Virgil", "Beatrice", "Aeneas"],
+    "answer": "Virgil",
+    "explanation": "The Roman poet Virgil guides him through Hell and Purgatory, and Beatrice guides him through Paradise."
+  },
+  {
+    "id": "en_g4",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": "Canberra",
+    "explanation": "Sydney is the largest city, but the capital is Canberra."
+  },
+  {
+    "id": "en_g5",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which is the longest river in Europe?",
+    "options": ["Danube", "Rhine", "Seine", "Volga"],
+    "answer": "Volga",
+    "explanation": "The Volga in Russia is about 3,530 km long."
+  },
+  {
+    "id": "en_g6",
+    "level": 4,
+    "category": "Geography",
+    "text": "In which country is Mount Kilimanjaro located?",
+    "options": ["Tanzania", "Kenya", "Uganda", "Ethiopia"],
+    "answer": "Tanzania",
+    "explanation": "Kilimanjaro is the highest mountain in Africa at about 5,895 m."
+  },
+  {
+    "id": "en_g7",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country has the most time zones, counting its overseas territories?",
+    "options": ["Russia", "France", "United States", "China"],
+    "answer": "France",
+    "explanation": "France spans 12 time zones thanks to overseas territories in the Pacific, Caribbean and Indian Ocean."
+  },
+  {
+    "id": "en_g8",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which strait separates Europe from Africa at the western end of the Mediterranean Sea?",
+    "options": ["Bosphorus", "Strait of Hormuz", "Strait of Gibraltar", "Strait of Malacca"],
+    "answer": "Strait of Gibraltar",
+    "explanation": "At its narrowest the Strait of Gibraltar is only about 13 km (8 miles) wide."
   }
 ]
