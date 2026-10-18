@@ -1499,5 +1499,77 @@
     "options": ["Bosphorus", "Strait of Hormuz", "Strait of Gibraltar", "Strait of Malacca"],
     "answer": "Strait of Gibraltar",
     "explanation": "At its narrowest the Strait of Gibraltar is only about 13 km (8 miles) wide."
+  },
+  {
+    "id": "en_ent1",
+    "level": 1,
+    "category": "Entertainment",
+    "text": "Which movie features a young lion named Simba?",
+    "options": ["Finding Nemo", "The Lion King", "Frozen", "Shrek"],
+    "answer": "The Lion King",
+    "explanation": "The Lion King follows Simba's journey to become king of the Pride Lands."
+  },
+  {
+    "id": "en_ent2",
+    "level": 1,
+    "category": "Entertainment",
+    "text": "What color is Mickey Mouse's famous shorts?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "answer": "Red",
+    "explanation": "Mickey Mouse is usually drawn wearing red shorts with two white buttons."
+  },
+  {
+    "id": "en_ent3",
+    "level": 2,
+    "category": "Entertainment",
+    "text": "Which British band sang \"Hey Jude\" and \"Let It Be\"?",
+    "options": ["The Rolling Stones", "Queen", "The Beatles", "ABBA"],
+    "answer": "The Beatles",
+    "explanation": "The Beatles were a hugely influential band from Liverpool, England."
+  },
+  {
+    "id": "en_ent4",
+    "level": 2,
+    "category": "Entertainment",
+    "text": "In the Harry Potter books, what school does Harry attend?",
+    "options": ["Beauxbatons", "Hogwarts", "Durmstrang", "Ilvermorny"],
+    "answer": "Hogwarts",
+    "explanation": "Harry Potter studies magic at Hogwarts School of Witchcraft and Wizardry."
+  },
+  {
+    "id": "en_ent5",
+    "level": 2,
+    "category": "Entertainment",
+    "text": "Which superhero is also known as the Caped Crusader and protects Gotham City?",
+    "options": ["Superman", "Spider-Man", "Batman", "Iron Man"],
+    "answer": "Batman",
+    "explanation": "Batman is the secret identity of Bruce Wayne in Gotham City."
+  },
+  {
+    "id": "en_ent6",
+    "level": 3,
+    "category": "Entertainment",
+    "text": "Which streaming series is set in the fictional town of Hawkins, Indiana?",
+    "options": ["The Witcher", "Stranger Things", "Wednesday", "The Crown"],
+    "answer": "Stranger Things",
+    "explanation": "Stranger Things follows kids in Hawkins who face supernatural dangers."
+  },
+  {
+    "id": "en_ent7",
+    "level": 3,
+    "category": "Entertainment",
+    "text": "Who directed the movies Jurassic Park and E.T. the Extra-Terrestrial?",
+    "options": ["James Cameron", "Christopher Nolan", "Steven Spielberg", "George Lucas"],
+    "answer": "Steven Spielberg",
+    "explanation": "Steven Spielberg directed many famous blockbusters, including Jurassic Park and E.T."
+  },
+  {
+    "id": "en_ent8",
+    "level": 3,
+    "category": "Entertainment",
+    "text": "Which K-pop group released the hit song \"Dynamite\" in 2020?",
+    "options": ["BLACKPINK", "BTS", "TWICE", "EXO"],
+    "answer": "BTS",
+    "explanation": "BTS's \"Dynamite\" was their first all-English single and a global hit."
   }
 ]
