@@ -5715,5 +5715,905 @@
     "answer": "베트남",
     "image": "images/flags/flag_vietnam.png",
     "explanation": "빨간 바탕에 노란 별 하나가 있으면 베트남 국기예요. 중국은 별이 다섯 개예요."
+  },
+  {
+    "id": "cap_india",
+    "level": 2,
+    "category": "지리",
+    "text": "인도의 수도는?",
+    "options": ["뉴델리", "뭄바이", "콜카타", "첸나이"],
+    "answer": "뉴델리",
+    "explanation": "인도의 수도는 뉴델리예요. 뭄바이는 아주 큰 도시지만 수도는 아니에요."
+  },
+  {
+    "id": "cap_thailand",
+    "level": 1,
+    "category": "지리",
+    "text": "태국의 수도는?",
+    "options": ["치앙마이", "방콕", "푸껫", "파타야"],
+    "answer": "방콕",
+    "explanation": "태국의 수도는 방콕이에요."
+  },
+  {
+    "id": "cap_vietnam",
+    "level": 2,
+    "category": "지리",
+    "text": "베트남의 수도는?",
+    "options": ["호찌민", "다낭", "하노이", "하이퐁"],
+    "answer": "하노이",
+    "explanation": "베트남의 수도는 하노이예요. 호찌민은 가장 큰 도시지만 수도는 하노이예요."
+  },
+  {
+    "id": "cap_philippines",
+    "level": 2,
+    "category": "지리",
+    "text": "필리핀의 수도는?",
+    "options": ["세부", "다바오", "바기오", "마닐라"],
+    "answer": "마닐라",
+    "explanation": "필리핀의 수도는 마닐라예요."
+  },
+  {
+    "id": "cap_malaysia",
+    "level": 3,
+    "category": "지리",
+    "text": "말레이시아의 수도는?",
+    "options": ["쿠알라룸푸르", "조호르바루", "이포", "코타키나발루"],
+    "answer": "쿠알라룸푸르",
+    "explanation": "말레이시아의 수도는 쿠알라룸푸르예요. 높이 솟은 페트로나스 트윈 타워가 있는 도시예요."
+  },
+  {
+    "id": "cap_cambodia",
+    "level": 3,
+    "category": "지리",
+    "text": "캄보디아의 수도는?",
+    "options": ["시엠립", "프놈펜", "바탐방", "비엔티안"],
+    "answer": "프놈펜",
+    "explanation": "캄보디아의 수도는 프놈펜이에요. 앙코르와트는 수도가 아니라 시엠립 근처에 있어요."
+  },
+  {
+    "id": "cap_laos",
+    "level": 4,
+    "category": "지리",
+    "text": "라오스의 수도는?",
+    "options": ["루앙프라방", "프놈펜", "비엔티안", "하노이"],
+    "answer": "비엔티안",
+    "explanation": "라오스의 수도는 비엔티안이에요."
+  },
+  {
+    "id": "cap_myanmar",
+    "level": 5,
+    "category": "지리",
+    "text": "미얀마의 수도는?",
+    "options": ["양곤", "만달레이", "방콕", "네피도"],
+    "answer": "네피도",
+    "explanation": "미얀마의 수도는 네피도예요. 2006년에 수도를 양곤에서 네피도로 옮겼어요."
+  },
+  {
+    "id": "cap_mongolia",
+    "level": 4,
+    "category": "지리",
+    "text": "몽골의 수도는?",
+    "options": ["울란바토르", "에르데네트", "다르항", "베이징"],
+    "answer": "울란바토르",
+    "explanation": "몽골의 수도는 울란바토르예요."
+  },
+  {
+    "id": "cap_nepal",
+    "level": 3,
+    "category": "지리",
+    "text": "네팔의 수도는?",
+    "options": ["포카라", "카트만두", "뉴델리", "다카"],
+    "answer": "카트만두",
+    "explanation": "네팔의 수도는 카트만두예요. 에베레스트산이 있는 나라의 수도예요."
+  },
+  {
+    "id": "cap_bangladesh",
+    "level": 4,
+    "category": "지리",
+    "text": "방글라데시의 수도는?",
+    "options": ["치타공", "콜카타", "다카", "카트만두"],
+    "answer": "다카",
+    "explanation": "방글라데시의 수도는 다카예요."
+  },
+  {
+    "id": "cap_pakistan",
+    "level": 4,
+    "category": "지리",
+    "text": "파키스탄의 수도는?",
+    "options": ["카라치", "라호르", "뉴델리", "이슬라마바드"],
+    "answer": "이슬라마바드",
+    "explanation": "파키스탄의 수도는 이슬라마바드예요. 카라치가 가장 큰 도시지만 수도는 이슬라마바드예요."
+  },
+  {
+    "id": "cap_bhutan",
+    "level": 5,
+    "category": "지리",
+    "text": "부탄의 수도는?",
+    "options": ["팀푸", "카트만두", "파로", "다카"],
+    "answer": "팀푸",
+    "explanation": "부탄의 수도는 팀푸예요."
+  },
+  {
+    "id": "cap_maldives",
+    "level": 5,
+    "category": "지리",
+    "text": "몰디브의 수도는?",
+    "options": ["콜롬보", "말레", "뉴델리", "아두"],
+    "answer": "말레",
+    "explanation": "몰디브의 수도는 말레예요."
+  },
+  {
+    "id": "cap_kazakhstan",
+    "level": 4,
+    "category": "지리",
+    "text": "카자흐스탄의 수도는?",
+    "options": ["알마티", "타슈켄트", "아스타나", "비슈케크"],
+    "answer": "아스타나",
+    "explanation": "카자흐스탄의 수도는 아스타나예요. 알마티는 1997년까지 수도였어요."
+  },
+  {
+    "id": "cap_uzbekistan",
+    "level": 4,
+    "category": "지리",
+    "text": "우즈베키스탄의 수도는?",
+    "options": ["사마르칸트", "부하라", "알마티", "타슈켄트"],
+    "answer": "타슈켄트",
+    "explanation": "우즈베키스탄의 수도는 타슈켄트예요."
+  },
+  {
+    "id": "cap_iran",
+    "level": 3,
+    "category": "지리",
+    "text": "이란의 수도는?",
+    "options": ["테헤란", "이스파한", "시라즈", "바그다드"],
+    "answer": "테헤란",
+    "explanation": "이란의 수도는 테헤란이에요."
+  },
+  {
+    "id": "cap_iraq",
+    "level": 3,
+    "category": "지리",
+    "text": "이라크의 수도는?",
+    "options": ["바스라", "바그다드", "모술", "테헤란"],
+    "answer": "바그다드",
+    "explanation": "이라크의 수도는 바그다드예요."
+  },
+  {
+    "id": "cap_saudi_arabia",
+    "level": 3,
+    "category": "지리",
+    "text": "사우디아라비아의 수도는?",
+    "options": ["메카", "제다", "리야드", "메디나"],
+    "answer": "리야드",
+    "explanation": "사우디아라비아의 수도는 리야드예요. 메카는 이슬람교의 성지이지만 수도는 리야드예요."
+  },
+  {
+    "id": "cap_united_arab_emirates",
+    "level": 3,
+    "category": "지리",
+    "text": "아랍에미리트의 수도는?",
+    "options": ["두바이", "샤르자", "도하", "아부다비"],
+    "answer": "아부다비",
+    "explanation": "아랍에미리트의 수도는 아부다비예요. 두바이가 더 유명하지만 수도는 아부다비예요."
+  },
+  {
+    "id": "cap_qatar",
+    "level": 4,
+    "category": "지리",
+    "text": "카타르의 수도는?",
+    "options": ["도하", "두바이", "마나마", "리야드"],
+    "answer": "도하",
+    "explanation": "카타르의 수도는 도하예요."
+  },
+  {
+    "id": "cap_oman",
+    "level": 5,
+    "category": "지리",
+    "text": "오만의 수도는?",
+    "options": ["살랄라", "무스카트", "아부다비", "도하"],
+    "answer": "무스카트",
+    "explanation": "오만의 수도는 무스카트예요."
+  },
+  {
+    "id": "cap_bahrain",
+    "level": 5,
+    "category": "지리",
+    "text": "바레인의 수도는?",
+    "options": ["도하", "리야드", "마나마", "무스카트"],
+    "answer": "마나마",
+    "explanation": "바레인의 수도는 마나마예요."
+  },
+  {
+    "id": "cap_lebanon",
+    "level": 4,
+    "category": "지리",
+    "text": "레바논의 수도는?",
+    "options": ["트리폴리", "다마스쿠스", "암만", "베이루트"],
+    "answer": "베이루트",
+    "explanation": "레바논의 수도는 베이루트예요."
+  },
+  {
+    "id": "cap_jordan",
+    "level": 4,
+    "category": "지리",
+    "text": "요르단의 수도는?",
+    "options": ["암만", "페트라", "다마스쿠스", "베이루트"],
+    "answer": "암만",
+    "explanation": "요르단의 수도는 암만이에요."
+  },
+  {
+    "id": "cap_syria",
+    "level": 4,
+    "category": "지리",
+    "text": "시리아의 수도는?",
+    "options": ["알레포", "다마스쿠스", "베이루트", "바그다드"],
+    "answer": "다마스쿠스",
+    "explanation": "시리아의 수도는 다마스쿠스예요."
+  },
+  {
+    "id": "cap_afghanistan",
+    "level": 4,
+    "category": "지리",
+    "text": "아프가니스탄의 수도는?",
+    "options": ["칸다하르", "헤라트", "카불", "이슬라마바드"],
+    "answer": "카불",
+    "explanation": "아프가니스탄의 수도는 카불이에요."
+  },
+  {
+    "id": "cap_kuwait",
+    "level": 5,
+    "category": "지리",
+    "text": "쿠웨이트의 수도는?",
+    "options": ["도하", "리야드", "마나마", "쿠웨이트시티"],
+    "answer": "쿠웨이트시티",
+    "explanation": "쿠웨이트의 수도는 쿠웨이트시티예요."
+  },
+  {
+    "id": "cap_georgia",
+    "level": 5,
+    "category": "지리",
+    "text": "조지아의 수도는?",
+    "options": ["트빌리시", "바투미", "예레반", "바쿠"],
+    "answer": "트빌리시",
+    "explanation": "조지아의 수도는 트빌리시예요."
+  },
+  {
+    "id": "cap_armenia",
+    "level": 5,
+    "category": "지리",
+    "text": "아르메니아의 수도는?",
+    "options": ["트빌리시", "예레반", "바쿠", "테헤란"],
+    "answer": "예레반",
+    "explanation": "아르메니아의 수도는 예레반이에요."
+  },
+  {
+    "id": "cap_azerbaijan",
+    "level": 5,
+    "category": "지리",
+    "text": "아제르바이잔의 수도는?",
+    "options": ["트빌리시", "예레반", "바쿠", "간자"],
+    "answer": "바쿠",
+    "explanation": "아제르바이잔의 수도는 바쿠예요."
+  },
+  {
+    "id": "cap_kyrgyzstan",
+    "level": 5,
+    "category": "지리",
+    "text": "키르기스스탄의 수도는?",
+    "options": ["오시", "타슈켄트", "아스타나", "비슈케크"],
+    "answer": "비슈케크",
+    "explanation": "키르기스스탄의 수도는 비슈케크예요."
+  },
+  {
+    "id": "cap_france",
+    "level": 1,
+    "category": "지리",
+    "text": "프랑스의 수도는?",
+    "options": ["파리", "마르세유", "리옹", "니스"],
+    "answer": "파리",
+    "explanation": "프랑스의 수도는 파리예요. 에펠탑이 있는 도시예요."
+  },
+  {
+    "id": "cap_germany",
+    "level": 2,
+    "category": "지리",
+    "text": "독일의 수도는?",
+    "options": ["뮌헨", "베를린", "함부르크", "프랑크푸르트"],
+    "answer": "베를린",
+    "explanation": "독일의 수도는 베를린이에요."
+  },
+  {
+    "id": "cap_spain",
+    "level": 2,
+    "category": "지리",
+    "text": "스페인의 수도는?",
+    "options": ["바르셀로나", "세비야", "마드리드", "발렌시아"],
+    "answer": "마드리드",
+    "explanation": "스페인의 수도는 마드리드예요. 바르셀로나가 유명하지만 수도는 마드리드예요."
+  },
+  {
+    "id": "cap_portugal",
+    "level": 3,
+    "category": "지리",
+    "text": "포르투갈의 수도는?",
+    "options": ["포르투", "마드리드", "파루", "리스본"],
+    "answer": "리스본",
+    "explanation": "포르투갈의 수도는 리스본이에요."
+  },
+  {
+    "id": "cap_netherlands",
+    "level": 3,
+    "category": "지리",
+    "text": "네덜란드의 수도는?",
+    "options": ["암스테르담", "로테르담", "위트레흐트", "브뤼셀"],
+    "answer": "암스테르담",
+    "explanation": "네덜란드의 수도는 암스테르담이에요."
+  },
+  {
+    "id": "cap_belgium",
+    "level": 3,
+    "category": "지리",
+    "text": "벨기에의 수도는?",
+    "options": ["안트베르펜", "브뤼셀", "겐트", "암스테르담"],
+    "answer": "브뤼셀",
+    "explanation": "벨기에의 수도는 브뤼셀이에요."
+  },
+  {
+    "id": "cap_austria",
+    "level": 3,
+    "category": "지리",
+    "text": "오스트리아의 수도는?",
+    "options": ["잘츠부르크", "그라츠", "빈", "인스브루크"],
+    "answer": "빈",
+    "explanation": "오스트리아의 수도는 빈이에요. 음악의 도시로 불리는 곳이에요."
+  },
+  {
+    "id": "cap_czechia",
+    "level": 2,
+    "category": "지리",
+    "text": "체코의 수도는?",
+    "options": ["브르노", "오스트라바", "빈", "프라하"],
+    "answer": "프라하",
+    "explanation": "체코의 수도는 프라하예요."
+  },
+  {
+    "id": "cap_slovakia",
+    "level": 5,
+    "category": "지리",
+    "text": "슬로바키아의 수도는?",
+    "options": ["브라티슬라바", "코시체", "프라하", "부다페스트"],
+    "answer": "브라티슬라바",
+    "explanation": "슬로바키아의 수도는 브라티슬라바예요."
+  },
+  {
+    "id": "cap_hungary",
+    "level": 3,
+    "category": "지리",
+    "text": "헝가리의 수도는?",
+    "options": ["데브레첸", "부다페스트", "빈", "바르샤바"],
+    "answer": "부다페스트",
+    "explanation": "헝가리의 수도는 부다페스트예요."
+  },
+  {
+    "id": "cap_poland",
+    "level": 3,
+    "category": "지리",
+    "text": "폴란드의 수도는?",
+    "options": ["크라쿠프", "그단스크", "바르샤바", "베를린"],
+    "answer": "바르샤바",
+    "explanation": "폴란드의 수도는 바르샤바예요."
+  },
+  {
+    "id": "cap_romania",
+    "level": 4,
+    "category": "지리",
+    "text": "루마니아의 수도는?",
+    "options": ["클루지나포카", "소피아", "부다페스트", "부쿠레슈티"],
+    "answer": "부쿠레슈티",
+    "explanation": "루마니아의 수도는 부쿠레슈티예요."
+  },
+  {
+    "id": "cap_bulgaria",
+    "level": 4,
+    "category": "지리",
+    "text": "불가리아의 수도는?",
+    "options": ["소피아", "플로브디프", "바르나", "부쿠레슈티"],
+    "answer": "소피아",
+    "explanation": "불가리아의 수도는 소피아예요."
+  },
+  {
+    "id": "cap_serbia",
+    "level": 4,
+    "category": "지리",
+    "text": "세르비아의 수도는?",
+    "options": ["노비사드", "베오그라드", "자그레브", "사라예보"],
+    "answer": "베오그라드",
+    "explanation": "세르비아의 수도는 베오그라드예요."
+  },
+  {
+    "id": "cap_croatia",
+    "level": 4,
+    "category": "지리",
+    "text": "크로아티아의 수도는?",
+    "options": ["스플리트", "두브로브니크", "자그레브", "베오그라드"],
+    "answer": "자그레브",
+    "explanation": "크로아티아의 수도는 자그레브예요."
+  },
+  {
+    "id": "cap_slovenia",
+    "level": 5,
+    "category": "지리",
+    "text": "슬로베니아의 수도는?",
+    "options": ["마리보르", "자그레브", "빈", "류블랴나"],
+    "answer": "류블랴나",
+    "explanation": "슬로베니아의 수도는 류블랴나예요."
+  },
+  {
+    "id": "cap_greece",
+    "level": 2,
+    "category": "지리",
+    "text": "그리스의 수도는?",
+    "options": ["아테네", "테살로니키", "파트라", "로마"],
+    "answer": "아테네",
+    "explanation": "그리스의 수도는 아테네예요. 고대 올림픽이 열렸던 나라의 수도예요."
+  },
+  {
+    "id": "cap_sweden",
+    "level": 2,
+    "category": "지리",
+    "text": "스웨덴의 수도는?",
+    "options": ["예테보리", "스톡홀름", "말뫼", "오슬로"],
+    "answer": "스톡홀름",
+    "explanation": "스웨덴의 수도는 스톡홀름이에요."
+  },
+  {
+    "id": "cap_norway",
+    "level": 3,
+    "category": "지리",
+    "text": "노르웨이의 수도는?",
+    "options": ["베르겐", "트론헤임", "오슬로", "스톡홀름"],
+    "answer": "오슬로",
+    "explanation": "노르웨이의 수도는 오슬로예요."
+  },
+  {
+    "id": "cap_denmark",
+    "level": 3,
+    "category": "지리",
+    "text": "덴마크의 수도는?",
+    "options": ["오르후스", "오덴세", "오슬로", "코펜하겐"],
+    "answer": "코펜하겐",
+    "explanation": "덴마크의 수도는 코펜하겐이에요."
+  },
+  {
+    "id": "cap_finland",
+    "level": 3,
+    "category": "지리",
+    "text": "핀란드의 수도는?",
+    "options": ["헬싱키", "탐페레", "투르쿠", "스톡홀름"],
+    "answer": "헬싱키",
+    "explanation": "핀란드의 수도는 헬싱키예요."
+  },
+  {
+    "id": "cap_iceland",
+    "level": 4,
+    "category": "지리",
+    "text": "아이슬란드의 수도는?",
+    "options": ["아퀴레이리", "레이캬비크", "오슬로", "코펜하겐"],
+    "answer": "레이캬비크",
+    "explanation": "아이슬란드의 수도는 레이캬비크예요."
+  },
+  {
+    "id": "cap_ireland",
+    "level": 3,
+    "category": "지리",
+    "text": "아일랜드의 수도는?",
+    "options": ["코크", "골웨이", "더블린", "런던"],
+    "answer": "더블린",
+    "explanation": "아일랜드의 수도는 더블린이에요."
+  },
+  {
+    "id": "cap_russia",
+    "level": 2,
+    "category": "지리",
+    "text": "러시아의 수도는?",
+    "options": ["상트페테르부르크", "블라디보스토크", "키이우", "모스크바"],
+    "answer": "모스크바",
+    "explanation": "러시아의 수도는 모스크바예요. 상트페테르부르크는 옛 수도였던 아름다운 도시예요."
+  },
+  {
+    "id": "cap_ukraine",
+    "level": 3,
+    "category": "지리",
+    "text": "우크라이나의 수도는?",
+    "options": ["키이우", "하르키우", "오데사", "모스크바"],
+    "answer": "키이우",
+    "explanation": "우크라이나의 수도는 키이우예요."
+  },
+  {
+    "id": "cap_belarus",
+    "level": 5,
+    "category": "지리",
+    "text": "벨라루스의 수도는?",
+    "options": ["브레스트", "민스크", "키이우", "바르샤바"],
+    "answer": "민스크",
+    "explanation": "벨라루스의 수도는 민스크예요."
+  },
+  {
+    "id": "cap_lithuania",
+    "level": 5,
+    "category": "지리",
+    "text": "리투아니아의 수도는?",
+    "options": ["카우나스", "리가", "빌뉴스", "탈린"],
+    "answer": "빌뉴스",
+    "explanation": "리투아니아의 수도는 빌뉴스예요."
+  },
+  {
+    "id": "cap_latvia",
+    "level": 5,
+    "category": "지리",
+    "text": "라트비아의 수도는?",
+    "options": ["빌뉴스", "탈린", "다우가프필스", "리가"],
+    "answer": "리가",
+    "explanation": "라트비아의 수도는 리가예요."
+  },
+  {
+    "id": "cap_estonia",
+    "level": 5,
+    "category": "지리",
+    "text": "에스토니아의 수도는?",
+    "options": ["탈린", "타르투", "리가", "헬싱키"],
+    "answer": "탈린",
+    "explanation": "에스토니아의 수도는 탈린이에요."
+  },
+  {
+    "id": "cap_moldova",
+    "level": 5,
+    "category": "지리",
+    "text": "몰도바의 수도는?",
+    "options": ["부쿠레슈티", "키시너우", "키이우", "티라스폴"],
+    "answer": "키시너우",
+    "explanation": "몰도바의 수도는 키시너우예요."
+  },
+  {
+    "id": "cap_mexico",
+    "level": 3,
+    "category": "지리",
+    "text": "멕시코의 수도는?",
+    "options": ["칸쿤", "과달라하라", "멕시코시티", "몬테레이"],
+    "answer": "멕시코시티",
+    "explanation": "멕시코의 수도는 멕시코시티예요."
+  },
+  {
+    "id": "cap_brazil",
+    "level": 4,
+    "category": "지리",
+    "text": "브라질의 수도는?",
+    "options": ["리우데자네이루", "상파울루", "살바도르", "브라질리아"],
+    "answer": "브라질리아",
+    "explanation": "브라질의 수도는 브라질리아예요. 리우데자네이루는 1960년까지 수도였어요."
+  },
+  {
+    "id": "cap_argentina",
+    "level": 3,
+    "category": "지리",
+    "text": "아르헨티나의 수도는?",
+    "options": ["부에노스아이레스", "코르도바", "로사리오", "몬테비데오"],
+    "answer": "부에노스아이레스",
+    "explanation": "아르헨티나의 수도는 부에노스아이레스예요."
+  },
+  {
+    "id": "cap_chile",
+    "level": 3,
+    "category": "지리",
+    "text": "칠레의 수도는?",
+    "options": ["발파라이소", "산티아고", "리마", "콘셉시온"],
+    "answer": "산티아고",
+    "explanation": "칠레의 수도는 산티아고예요."
+  },
+  {
+    "id": "cap_colombia",
+    "level": 3,
+    "category": "지리",
+    "text": "콜롬비아의 수도는?",
+    "options": ["메데인", "칼리", "보고타", "카르타헤나"],
+    "answer": "보고타",
+    "explanation": "콜롬비아의 수도는 보고타예요."
+  },
+  {
+    "id": "cap_peru",
+    "level": 3,
+    "category": "지리",
+    "text": "페루의 수도는?",
+    "options": ["쿠스코", "아레키파", "보고타", "리마"],
+    "answer": "리마",
+    "explanation": "페루의 수도는 리마예요. 쿠스코는 옛 잉카 제국의 수도였어요."
+  },
+  {
+    "id": "cap_venezuela",
+    "level": 4,
+    "category": "지리",
+    "text": "베네수엘라의 수도는?",
+    "options": ["카라카스", "마라카이보", "발렌시아", "보고타"],
+    "answer": "카라카스",
+    "explanation": "베네수엘라의 수도는 카라카스예요."
+  },
+  {
+    "id": "cap_ecuador",
+    "level": 4,
+    "category": "지리",
+    "text": "에콰도르의 수도는?",
+    "options": ["과야킬", "키토", "쿠엥카", "리마"],
+    "answer": "키토",
+    "explanation": "에콰도르의 수도는 키토예요."
+  },
+  {
+    "id": "cap_uruguay",
+    "level": 4,
+    "category": "지리",
+    "text": "우루과이의 수도는?",
+    "options": ["푼타델에스테", "부에노스아이레스", "몬테비데오", "아순시온"],
+    "answer": "몬테비데오",
+    "explanation": "우루과이의 수도는 몬테비데오예요."
+  },
+  {
+    "id": "cap_paraguay",
+    "level": 5,
+    "category": "지리",
+    "text": "파라과이의 수도는?",
+    "options": ["시우다드델에스테", "몬테비데오", "라파스", "아순시온"],
+    "answer": "아순시온",
+    "explanation": "파라과이의 수도는 아순시온이에요."
+  },
+  {
+    "id": "cap_cuba",
+    "level": 3,
+    "category": "지리",
+    "text": "쿠바의 수도는?",
+    "options": ["아바나", "산티아고데쿠바", "마탄사스", "킹스턴"],
+    "answer": "아바나",
+    "explanation": "쿠바의 수도는 아바나예요."
+  },
+  {
+    "id": "cap_jamaica",
+    "level": 4,
+    "category": "지리",
+    "text": "자메이카의 수도는?",
+    "options": ["몬테고베이", "킹스턴", "아바나", "나소"],
+    "answer": "킹스턴",
+    "explanation": "자메이카의 수도는 킹스턴이에요."
+  },
+  {
+    "id": "cap_panama",
+    "level": 4,
+    "category": "지리",
+    "text": "파나마의 수도는?",
+    "options": ["콜론", "산호세", "파나마시티", "보고타"],
+    "answer": "파나마시티",
+    "explanation": "파나마의 수도는 파나마시티예요. 유명한 파나마 운하가 있는 나라예요."
+  },
+  {
+    "id": "cap_costa_rica",
+    "level": 5,
+    "category": "지리",
+    "text": "코스타리카의 수도는?",
+    "options": ["리몬", "파나마시티", "마나과", "산호세"],
+    "answer": "산호세",
+    "explanation": "코스타리카의 수도는 산호세예요."
+  },
+  {
+    "id": "cap_dominican_republic",
+    "level": 5,
+    "category": "지리",
+    "text": "도미니카 공화국의 수도는?",
+    "options": ["산토도밍고", "푼타카나", "포르토프랭스", "킹스턴"],
+    "answer": "산토도밍고",
+    "explanation": "도미니카 공화국의 수도는 산토도밍고예요."
+  },
+  {
+    "id": "cap_egypt",
+    "level": 2,
+    "category": "지리",
+    "text": "이집트의 수도는?",
+    "options": ["알렉산드리아", "카이로", "룩소르", "기자"],
+    "answer": "카이로",
+    "explanation": "이집트의 수도는 카이로예요. 피라미드 가까이에 있는 도시예요."
+  },
+  {
+    "id": "cap_nigeria",
+    "level": 5,
+    "category": "지리",
+    "text": "나이지리아의 수도는?",
+    "options": ["라고스", "카노", "아부자", "아크라"],
+    "answer": "아부자",
+    "explanation": "나이지리아의 수도는 아부자예요. 라고스가 가장 큰 도시지만 수도는 아부자예요."
+  },
+  {
+    "id": "cap_kenya",
+    "level": 3,
+    "category": "지리",
+    "text": "케냐의 수도는?",
+    "options": ["몸바사", "키수무", "캄팔라", "나이로비"],
+    "answer": "나이로비",
+    "explanation": "케냐의 수도는 나이로비예요."
+  },
+  {
+    "id": "cap_ethiopia",
+    "level": 4,
+    "category": "지리",
+    "text": "에티오피아의 수도는?",
+    "options": ["아디스아바바", "나이로비", "곤다르", "카이로"],
+    "answer": "아디스아바바",
+    "explanation": "에티오피아의 수도는 아디스아바바예요."
+  },
+  {
+    "id": "cap_ghana",
+    "level": 4,
+    "category": "지리",
+    "text": "가나의 수도는?",
+    "options": ["쿠마시", "아크라", "라고스", "아부자"],
+    "answer": "아크라",
+    "explanation": "가나의 수도는 아크라예요."
+  },
+  {
+    "id": "cap_morocco",
+    "level": 4,
+    "category": "지리",
+    "text": "모로코의 수도는?",
+    "options": ["카사블랑카", "마라케시", "라바트", "페스"],
+    "answer": "라바트",
+    "explanation": "모로코의 수도는 라바트예요. 카사블랑카가 가장 큰 도시지만 수도는 라바트예요."
+  },
+  {
+    "id": "cap_algeria",
+    "level": 4,
+    "category": "지리",
+    "text": "알제리의 수도는?",
+    "options": ["오랑", "튀니스", "라바트", "알제"],
+    "answer": "알제",
+    "explanation": "알제리의 수도는 알제예요."
+  },
+  {
+    "id": "cap_tunisia",
+    "level": 4,
+    "category": "지리",
+    "text": "튀니지의 수도는?",
+    "options": ["튀니스", "수스", "알제", "트리폴리"],
+    "answer": "튀니스",
+    "explanation": "튀니지의 수도는 튀니스예요."
+  },
+  {
+    "id": "cap_senegal",
+    "level": 4,
+    "category": "지리",
+    "text": "세네갈의 수도는?",
+    "options": ["생루이", "다카르", "아크라", "바마코"],
+    "answer": "다카르",
+    "explanation": "세네갈의 수도는 다카르예요."
+  },
+  {
+    "id": "cap_tanzania",
+    "level": 5,
+    "category": "지리",
+    "text": "탄자니아의 수도는?",
+    "options": ["다르에스살람", "잔지바르", "도도마", "나이로비"],
+    "answer": "도도마",
+    "explanation": "탄자니아의 수도는 도도마예요. 다르에스살람이 가장 큰 도시지만 공식 수도는 도도마예요."
+  },
+  {
+    "id": "cap_rwanda",
+    "level": 5,
+    "category": "지리",
+    "text": "르완다의 수도는?",
+    "options": ["캄팔라", "나이로비", "다르에스살람", "키갈리"],
+    "answer": "키갈리",
+    "explanation": "르완다의 수도는 키갈리예요."
+  },
+  {
+    "id": "cap_cameroon",
+    "level": 5,
+    "category": "지리",
+    "text": "카메룬의 수도는?",
+    "options": ["야운데", "두알라", "라고스", "아크라"],
+    "answer": "야운데",
+    "explanation": "카메룬의 수도는 야운데예요."
+  },
+  {
+    "id": "cap_libya",
+    "level": 5,
+    "category": "지리",
+    "text": "리비아의 수도는?",
+    "options": ["벵가지", "트리폴리", "카이로", "튀니스"],
+    "answer": "트리폴리",
+    "explanation": "리비아의 수도는 트리폴리예요."
+  },
+  {
+    "id": "cap_sudan",
+    "level": 5,
+    "category": "지리",
+    "text": "수단의 수도는?",
+    "options": ["포트수단", "카이로", "하르툼", "아디스아바바"],
+    "answer": "하르툼",
+    "explanation": "수단의 수도는 하르툼이에요."
+  },
+  {
+    "id": "cap_somalia",
+    "level": 5,
+    "category": "지리",
+    "text": "소말리아의 수도는?",
+    "options": ["하르게이사", "나이로비", "아디스아바바", "모가디슈"],
+    "answer": "모가디슈",
+    "explanation": "소말리아의 수도는 모가디슈예요."
+  },
+  {
+    "id": "cap_mauritius",
+    "level": 5,
+    "category": "지리",
+    "text": "모리셔스의 수도는?",
+    "options": ["포트루이", "퀴르피프", "안타나나리보", "빅토리아"],
+    "answer": "포트루이",
+    "explanation": "모리셔스의 수도는 포트루이예요."
+  },
+  {
+    "id": "cap_togo",
+    "level": 5,
+    "category": "지리",
+    "text": "토고의 수도는?",
+    "options": ["아크라", "로메", "라고스", "코토누"],
+    "answer": "로메",
+    "explanation": "토고의 수도는 로메예요."
+  },
+  {
+    "id": "cap_zimbabwe",
+    "level": 5,
+    "category": "지리",
+    "text": "짐바브웨의 수도는?",
+    "options": ["불라와요", "루사카", "하라레", "요하네스버그"],
+    "answer": "하라레",
+    "explanation": "짐바브웨의 수도는 하라레예요."
+  },
+  {
+    "id": "cap_zambia",
+    "level": 5,
+    "category": "지리",
+    "text": "잠비아의 수도는?",
+    "options": ["하라레", "나이로비", "키트웨", "루사카"],
+    "answer": "루사카",
+    "explanation": "잠비아의 수도는 루사카예요."
+  },
+  {
+    "id": "cap_new_zealand",
+    "level": 3,
+    "category": "지리",
+    "text": "뉴질랜드의 수도는?",
+    "options": ["웰링턴", "오클랜드", "크라이스트처치", "캔버라"],
+    "answer": "웰링턴",
+    "explanation": "뉴질랜드의 수도는 웰링턴이에요. 오클랜드가 가장 큰 도시지만 수도는 웰링턴이에요."
+  },
+  {
+    "id": "cap_fiji",
+    "level": 5,
+    "category": "지리",
+    "text": "피지의 수도는?",
+    "options": ["난디", "수바", "웰링턴", "포트모르즈비"],
+    "answer": "수바",
+    "explanation": "피지의 수도는 수바예요."
+  },
+  {
+    "id": "cap_papua_new_guinea",
+    "level": 5,
+    "category": "지리",
+    "text": "파푸아뉴기니의 수도는?",
+    "options": ["라에", "수바", "포트모르즈비", "캔버라"],
+    "answer": "포트모르즈비",
+    "explanation": "파푸아뉴기니의 수도는 포트모르즈비예요."
+  },
+  {
+    "id": "cap_south_africa",
+    "level": 5,
+    "category": "지리",
+    "text": "남아프리카공화국의 행정 수도는?",
+    "options": ["케이프타운", "요하네스버그", "더반", "프리토리아"],
+    "answer": "프리토리아",
+    "explanation": "남아프리카공화국은 수도가 세 곳이에요. 행정은 프리토리아, 입법은 케이프타운, 사법은 블룸폰테인이에요."
   }
 ]

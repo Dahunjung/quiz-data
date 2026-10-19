@@ -2321,5 +2321,896 @@
     "answer": "Vietnam",
     "image": "images/flags/flag_vietnam.png",
     "explanation": "A red flag with one big yellow star is Vietnam. China has five stars."
+  },
+  {
+    "id": "en_cap_india",
+    "level": 2,
+    "category": "Geography",
+    "text": "What is the capital of India?",
+    "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "answer": "New Delhi",
+    "explanation": "The capital of India is New Delhi. Mumbai is huge, but it is not the capital."
+  },
+  {
+    "id": "en_cap_thailand",
+    "level": 1,
+    "category": "Geography",
+    "text": "What is the capital of Thailand?",
+    "options": ["Chiang Mai", "Bangkok", "Phuket", "Pattaya"],
+    "answer": "Bangkok",
+    "explanation": "The capital of Thailand is Bangkok."
+  },
+  {
+    "id": "en_cap_vietnam",
+    "level": 2,
+    "category": "Geography",
+    "text": "What is the capital of Vietnam?",
+    "options": ["Ho Chi Minh City", "Da Nang", "Hanoi", "Haiphong"],
+    "answer": "Hanoi",
+    "explanation": "The capital of Vietnam is Hanoi. Ho Chi Minh City is the biggest city, but Hanoi is the capital."
+  },
+  {
+    "id": "en_cap_philippines",
+    "level": 2,
+    "category": "Geography",
+    "text": "What is the capital of the Philippines?",
+    "options": ["Cebu", "Davao", "Baguio", "Manila"],
+    "answer": "Manila",
+    "explanation": "The capital of the Philippines is Manila."
+  },
+  {
+    "id": "en_cap_malaysia",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Malaysia?",
+    "options": ["Kuala Lumpur", "Johor Bahru", "Ipoh", "Kota Kinabalu"],
+    "answer": "Kuala Lumpur",
+    "explanation": "The capital of Malaysia is Kuala Lumpur. The Petronas Twin Towers stand in this city."
+  },
+  {
+    "id": "en_cap_cambodia",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Cambodia?",
+    "options": ["Siem Reap", "Phnom Penh", "Battambang", "Vientiane"],
+    "answer": "Phnom Penh",
+    "explanation": "The capital of Cambodia is Phnom Penh. Angkor Wat is near Siem Reap, not in the capital."
+  },
+  {
+    "id": "en_cap_laos",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Laos?",
+    "options": ["Luang Prabang", "Phnom Penh", "Vientiane", "Hanoi"],
+    "answer": "Vientiane",
+    "explanation": "The capital of Laos is Vientiane."
+  },
+  {
+    "id": "en_cap_myanmar",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Myanmar?",
+    "options": ["Yangon", "Mandalay", "Bangkok", "Naypyidaw"],
+    "answer": "Naypyidaw",
+    "explanation": "The capital of Myanmar is Naypyidaw. The capital moved from Yangon to Naypyidaw in 2006."
+  },
+  {
+    "id": "en_cap_mongolia",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Mongolia?",
+    "options": ["Ulaanbaatar", "Erdenet", "Darkhan", "Beijing"],
+    "answer": "Ulaanbaatar",
+    "explanation": "The capital of Mongolia is Ulaanbaatar."
+  },
+  {
+    "id": "en_cap_nepal",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Nepal?",
+    "options": ["Pokhara", "Kathmandu", "New Delhi", "Dhaka"],
+    "answer": "Kathmandu",
+    "explanation": "The capital of Nepal is Kathmandu. The capital of the country that has Mount Everest."
+  },
+  {
+    "id": "en_cap_bangladesh",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Bangladesh?",
+    "options": ["Chittagong", "Kolkata", "Dhaka", "Kathmandu"],
+    "answer": "Dhaka",
+    "explanation": "The capital of Bangladesh is Dhaka."
+  },
+  {
+    "id": "en_cap_pakistan",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Pakistan?",
+    "options": ["Karachi", "Lahore", "New Delhi", "Islamabad"],
+    "answer": "Islamabad",
+    "explanation": "The capital of Pakistan is Islamabad. Karachi is the largest city, but the capital is Islamabad."
+  },
+  {
+    "id": "en_cap_bhutan",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Bhutan?",
+    "options": ["Thimphu", "Kathmandu", "Paro", "Dhaka"],
+    "answer": "Thimphu",
+    "explanation": "The capital of Bhutan is Thimphu."
+  },
+  {
+    "id": "en_cap_maldives",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of the Maldives?",
+    "options": ["Colombo", "Male", "New Delhi", "Addu"],
+    "answer": "Male",
+    "explanation": "The capital of the Maldives is Male."
+  },
+  {
+    "id": "en_cap_kazakhstan",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Kazakhstan?",
+    "options": ["Almaty", "Tashkent", "Astana", "Bishkek"],
+    "answer": "Astana",
+    "explanation": "The capital of Kazakhstan is Astana. Almaty was the capital until 1997."
+  },
+  {
+    "id": "en_cap_uzbekistan",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Uzbekistan?",
+    "options": ["Samarkand", "Bukhara", "Almaty", "Tashkent"],
+    "answer": "Tashkent",
+    "explanation": "The capital of Uzbekistan is Tashkent."
+  },
+  {
+    "id": "en_cap_iran",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Iran?",
+    "options": ["Tehran", "Isfahan", "Shiraz", "Baghdad"],
+    "answer": "Tehran",
+    "explanation": "The capital of Iran is Tehran."
+  },
+  {
+    "id": "en_cap_iraq",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Iraq?",
+    "options": ["Basra", "Baghdad", "Mosul", "Tehran"],
+    "answer": "Baghdad",
+    "explanation": "The capital of Iraq is Baghdad."
+  },
+  {
+    "id": "en_cap_saudi_arabia",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Saudi Arabia?",
+    "options": ["Mecca", "Jeddah", "Riyadh", "Medina"],
+    "answer": "Riyadh",
+    "explanation": "The capital of Saudi Arabia is Riyadh. Mecca is a holy city, but the capital is Riyadh."
+  },
+  {
+    "id": "en_cap_united_arab_emirates",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of the United Arab Emirates?",
+    "options": ["Dubai", "Sharjah", "Doha", "Abu Dhabi"],
+    "answer": "Abu Dhabi",
+    "explanation": "The capital of the United Arab Emirates is Abu Dhabi. Dubai is more famous, but the capital is Abu Dhabi."
+  },
+  {
+    "id": "en_cap_qatar",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Qatar?",
+    "options": ["Doha", "Dubai", "Manama", "Riyadh"],
+    "answer": "Doha",
+    "explanation": "The capital of Qatar is Doha."
+  },
+  {
+    "id": "en_cap_oman",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Oman?",
+    "options": ["Salalah", "Muscat", "Abu Dhabi", "Doha"],
+    "answer": "Muscat",
+    "explanation": "The capital of Oman is Muscat."
+  },
+  {
+    "id": "en_cap_bahrain",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Bahrain?",
+    "options": ["Doha", "Riyadh", "Manama", "Muscat"],
+    "answer": "Manama",
+    "explanation": "The capital of Bahrain is Manama."
+  },
+  {
+    "id": "en_cap_lebanon",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Lebanon?",
+    "options": ["Tripoli", "Damascus", "Amman", "Beirut"],
+    "answer": "Beirut",
+    "explanation": "The capital of Lebanon is Beirut."
+  },
+  {
+    "id": "en_cap_jordan",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Jordan?",
+    "options": ["Amman", "Petra", "Damascus", "Beirut"],
+    "answer": "Amman",
+    "explanation": "The capital of Jordan is Amman."
+  },
+  {
+    "id": "en_cap_syria",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Syria?",
+    "options": ["Aleppo", "Damascus", "Beirut", "Baghdad"],
+    "answer": "Damascus",
+    "explanation": "The capital of Syria is Damascus."
+  },
+  {
+    "id": "en_cap_afghanistan",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Afghanistan?",
+    "options": ["Kandahar", "Herat", "Kabul", "Islamabad"],
+    "answer": "Kabul",
+    "explanation": "The capital of Afghanistan is Kabul."
+  },
+  {
+    "id": "en_cap_kuwait",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Kuwait?",
+    "options": ["Doha", "Riyadh", "Manama", "Kuwait City"],
+    "answer": "Kuwait City",
+    "explanation": "The capital of Kuwait is Kuwait City."
+  },
+  {
+    "id": "en_cap_georgia",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Georgia?",
+    "options": ["Tbilisi", "Batumi", "Yerevan", "Baku"],
+    "answer": "Tbilisi",
+    "explanation": "The capital of Georgia is Tbilisi."
+  },
+  {
+    "id": "en_cap_armenia",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Armenia?",
+    "options": ["Tbilisi", "Yerevan", "Baku", "Tehran"],
+    "answer": "Yerevan",
+    "explanation": "The capital of Armenia is Yerevan."
+  },
+  {
+    "id": "en_cap_azerbaijan",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Azerbaijan?",
+    "options": ["Tbilisi", "Yerevan", "Baku", "Ganja"],
+    "answer": "Baku",
+    "explanation": "The capital of Azerbaijan is Baku."
+  },
+  {
+    "id": "en_cap_kyrgyzstan",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Kyrgyzstan?",
+    "options": ["Osh", "Tashkent", "Astana", "Bishkek"],
+    "answer": "Bishkek",
+    "explanation": "The capital of Kyrgyzstan is Bishkek."
+  },
+  {
+    "id": "en_cap_germany",
+    "level": 2,
+    "category": "Geography",
+    "text": "What is the capital of Germany?",
+    "options": ["Berlin", "Munich", "Hamburg", "Frankfurt"],
+    "answer": "Berlin",
+    "explanation": "The capital of Germany is Berlin."
+  },
+  {
+    "id": "en_cap_spain",
+    "level": 2,
+    "category": "Geography",
+    "text": "What is the capital of Spain?",
+    "options": ["Barcelona", "Madrid", "Seville", "Valencia"],
+    "answer": "Madrid",
+    "explanation": "The capital of Spain is Madrid. Barcelona is famous, but the capital is Madrid."
+  },
+  {
+    "id": "en_cap_portugal",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Portugal?",
+    "options": ["Porto", "Madrid", "Lisbon", "Faro"],
+    "answer": "Lisbon",
+    "explanation": "The capital of Portugal is Lisbon."
+  },
+  {
+    "id": "en_cap_netherlands",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of the Netherlands?",
+    "options": ["Rotterdam", "Utrecht", "Brussels", "Amsterdam"],
+    "answer": "Amsterdam",
+    "explanation": "The capital of the Netherlands is Amsterdam."
+  },
+  {
+    "id": "en_cap_belgium",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Belgium?",
+    "options": ["Brussels", "Antwerp", "Ghent", "Amsterdam"],
+    "answer": "Brussels",
+    "explanation": "The capital of Belgium is Brussels."
+  },
+  {
+    "id": "en_cap_austria",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Austria?",
+    "options": ["Salzburg", "Vienna", "Graz", "Innsbruck"],
+    "answer": "Vienna",
+    "explanation": "The capital of Austria is Vienna. It is known as a city of music."
+  },
+  {
+    "id": "en_cap_czechia",
+    "level": 2,
+    "category": "Geography",
+    "text": "What is the capital of Czechia?",
+    "options": ["Brno", "Ostrava", "Prague", "Vienna"],
+    "answer": "Prague",
+    "explanation": "The capital of Czechia is Prague."
+  },
+  {
+    "id": "en_cap_slovakia",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Slovakia?",
+    "options": ["Kosice", "Prague", "Budapest", "Bratislava"],
+    "answer": "Bratislava",
+    "explanation": "The capital of Slovakia is Bratislava."
+  },
+  {
+    "id": "en_cap_hungary",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Hungary?",
+    "options": ["Budapest", "Debrecen", "Vienna", "Warsaw"],
+    "answer": "Budapest",
+    "explanation": "The capital of Hungary is Budapest."
+  },
+  {
+    "id": "en_cap_poland",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Poland?",
+    "options": ["Krakow", "Warsaw", "Gdansk", "Berlin"],
+    "answer": "Warsaw",
+    "explanation": "The capital of Poland is Warsaw."
+  },
+  {
+    "id": "en_cap_romania",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Romania?",
+    "options": ["Cluj-Napoca", "Sofia", "Bucharest", "Budapest"],
+    "answer": "Bucharest",
+    "explanation": "The capital of Romania is Bucharest."
+  },
+  {
+    "id": "en_cap_bulgaria",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Bulgaria?",
+    "options": ["Plovdiv", "Varna", "Bucharest", "Sofia"],
+    "answer": "Sofia",
+    "explanation": "The capital of Bulgaria is Sofia."
+  },
+  {
+    "id": "en_cap_serbia",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Serbia?",
+    "options": ["Belgrade", "Novi Sad", "Zagreb", "Sarajevo"],
+    "answer": "Belgrade",
+    "explanation": "The capital of Serbia is Belgrade."
+  },
+  {
+    "id": "en_cap_croatia",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Croatia?",
+    "options": ["Split", "Zagreb", "Dubrovnik", "Belgrade"],
+    "answer": "Zagreb",
+    "explanation": "The capital of Croatia is Zagreb."
+  },
+  {
+    "id": "en_cap_slovenia",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Slovenia?",
+    "options": ["Maribor", "Zagreb", "Ljubljana", "Vienna"],
+    "answer": "Ljubljana",
+    "explanation": "The capital of Slovenia is Ljubljana."
+  },
+  {
+    "id": "en_cap_greece",
+    "level": 2,
+    "category": "Geography",
+    "text": "What is the capital of Greece?",
+    "options": ["Thessaloniki", "Patras", "Rome", "Athens"],
+    "answer": "Athens",
+    "explanation": "The capital of Greece is Athens. The capital of the country where the ancient Olympics began."
+  },
+  {
+    "id": "en_cap_sweden",
+    "level": 2,
+    "category": "Geography",
+    "text": "What is the capital of Sweden?",
+    "options": ["Stockholm", "Gothenburg", "Malmo", "Oslo"],
+    "answer": "Stockholm",
+    "explanation": "The capital of Sweden is Stockholm."
+  },
+  {
+    "id": "en_cap_norway",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Norway?",
+    "options": ["Bergen", "Oslo", "Trondheim", "Stockholm"],
+    "answer": "Oslo",
+    "explanation": "The capital of Norway is Oslo."
+  },
+  {
+    "id": "en_cap_denmark",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Denmark?",
+    "options": ["Aarhus", "Odense", "Copenhagen", "Oslo"],
+    "answer": "Copenhagen",
+    "explanation": "The capital of Denmark is Copenhagen."
+  },
+  {
+    "id": "en_cap_finland",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Finland?",
+    "options": ["Tampere", "Turku", "Stockholm", "Helsinki"],
+    "answer": "Helsinki",
+    "explanation": "The capital of Finland is Helsinki."
+  },
+  {
+    "id": "en_cap_iceland",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Iceland?",
+    "options": ["Reykjavik", "Akureyri", "Oslo", "Copenhagen"],
+    "answer": "Reykjavik",
+    "explanation": "The capital of Iceland is Reykjavik."
+  },
+  {
+    "id": "en_cap_ireland",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Ireland?",
+    "options": ["Cork", "Dublin", "Galway", "London"],
+    "answer": "Dublin",
+    "explanation": "The capital of Ireland is Dublin."
+  },
+  {
+    "id": "en_cap_russia",
+    "level": 2,
+    "category": "Geography",
+    "text": "What is the capital of Russia?",
+    "options": ["Saint Petersburg", "Vladivostok", "Moscow", "Kyiv"],
+    "answer": "Moscow",
+    "explanation": "The capital of Russia is Moscow. Saint Petersburg was once the capital, but Moscow is today."
+  },
+  {
+    "id": "en_cap_ukraine",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Ukraine?",
+    "options": ["Kharkiv", "Odesa", "Moscow", "Kyiv"],
+    "answer": "Kyiv",
+    "explanation": "The capital of Ukraine is Kyiv."
+  },
+  {
+    "id": "en_cap_belarus",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Belarus?",
+    "options": ["Minsk", "Brest", "Kyiv", "Warsaw"],
+    "answer": "Minsk",
+    "explanation": "The capital of Belarus is Minsk."
+  },
+  {
+    "id": "en_cap_lithuania",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Lithuania?",
+    "options": ["Kaunas", "Vilnius", "Riga", "Tallinn"],
+    "answer": "Vilnius",
+    "explanation": "The capital of Lithuania is Vilnius."
+  },
+  {
+    "id": "en_cap_latvia",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Latvia?",
+    "options": ["Vilnius", "Tallinn", "Riga", "Daugavpils"],
+    "answer": "Riga",
+    "explanation": "The capital of Latvia is Riga."
+  },
+  {
+    "id": "en_cap_estonia",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Estonia?",
+    "options": ["Tartu", "Riga", "Helsinki", "Tallinn"],
+    "answer": "Tallinn",
+    "explanation": "The capital of Estonia is Tallinn."
+  },
+  {
+    "id": "en_cap_moldova",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Moldova?",
+    "options": ["Chisinau", "Bucharest", "Kyiv", "Tiraspol"],
+    "answer": "Chisinau",
+    "explanation": "The capital of Moldova is Chisinau."
+  },
+  {
+    "id": "en_cap_mexico",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Mexico?",
+    "options": ["Cancun", "Mexico City", "Guadalajara", "Monterrey"],
+    "answer": "Mexico City",
+    "explanation": "The capital of Mexico is Mexico City."
+  },
+  {
+    "id": "en_cap_brazil",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Brazil?",
+    "options": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Salvador"],
+    "answer": "Brasilia",
+    "explanation": "The capital of Brazil is Brasilia. Rio de Janeiro was the capital until 1960."
+  },
+  {
+    "id": "en_cap_argentina",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Argentina?",
+    "options": ["Cordoba", "Rosario", "Montevideo", "Buenos Aires"],
+    "answer": "Buenos Aires",
+    "explanation": "The capital of Argentina is Buenos Aires."
+  },
+  {
+    "id": "en_cap_chile",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Chile?",
+    "options": ["Santiago", "Valparaiso", "Lima", "Concepcion"],
+    "answer": "Santiago",
+    "explanation": "The capital of Chile is Santiago."
+  },
+  {
+    "id": "en_cap_colombia",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Colombia?",
+    "options": ["Medellin", "Bogota", "Cali", "Cartagena"],
+    "answer": "Bogota",
+    "explanation": "The capital of Colombia is Bogota."
+  },
+  {
+    "id": "en_cap_peru",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Peru?",
+    "options": ["Cusco", "Arequipa", "Lima", "Bogota"],
+    "answer": "Lima",
+    "explanation": "The capital of Peru is Lima. Cusco was the capital of the old Inca Empire."
+  },
+  {
+    "id": "en_cap_venezuela",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Venezuela?",
+    "options": ["Maracaibo", "Valencia", "Bogota", "Caracas"],
+    "answer": "Caracas",
+    "explanation": "The capital of Venezuela is Caracas."
+  },
+  {
+    "id": "en_cap_ecuador",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Ecuador?",
+    "options": ["Quito", "Guayaquil", "Cuenca", "Lima"],
+    "answer": "Quito",
+    "explanation": "The capital of Ecuador is Quito."
+  },
+  {
+    "id": "en_cap_uruguay",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Uruguay?",
+    "options": ["Punta del Este", "Montevideo", "Buenos Aires", "Asuncion"],
+    "answer": "Montevideo",
+    "explanation": "The capital of Uruguay is Montevideo."
+  },
+  {
+    "id": "en_cap_paraguay",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Paraguay?",
+    "options": ["Ciudad del Este", "Montevideo", "Asuncion", "La Paz"],
+    "answer": "Asuncion",
+    "explanation": "The capital of Paraguay is Asuncion."
+  },
+  {
+    "id": "en_cap_cuba",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Cuba?",
+    "options": ["Santiago de Cuba", "Matanzas", "Kingston", "Havana"],
+    "answer": "Havana",
+    "explanation": "The capital of Cuba is Havana."
+  },
+  {
+    "id": "en_cap_jamaica",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Jamaica?",
+    "options": ["Kingston", "Montego Bay", "Havana", "Nassau"],
+    "answer": "Kingston",
+    "explanation": "The capital of Jamaica is Kingston."
+  },
+  {
+    "id": "en_cap_panama",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Panama?",
+    "options": ["Colon", "Panama City", "San Jose", "Bogota"],
+    "answer": "Panama City",
+    "explanation": "The capital of Panama is Panama City. The famous Panama Canal is in this country."
+  },
+  {
+    "id": "en_cap_costa_rica",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Costa Rica?",
+    "options": ["Limon", "Panama City", "San Jose", "Managua"],
+    "answer": "San Jose",
+    "explanation": "The capital of Costa Rica is San Jose."
+  },
+  {
+    "id": "en_cap_dominican_republic",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of the Dominican Republic?",
+    "options": ["Punta Cana", "Port-au-Prince", "Kingston", "Santo Domingo"],
+    "answer": "Santo Domingo",
+    "explanation": "The capital of the Dominican Republic is Santo Domingo."
+  },
+  {
+    "id": "en_cap_egypt",
+    "level": 2,
+    "category": "Geography",
+    "text": "What is the capital of Egypt?",
+    "options": ["Cairo", "Alexandria", "Luxor", "Giza"],
+    "answer": "Cairo",
+    "explanation": "The capital of Egypt is Cairo. The pyramids are close to this city."
+  },
+  {
+    "id": "en_cap_nigeria",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Nigeria?",
+    "options": ["Lagos", "Abuja", "Kano", "Accra"],
+    "answer": "Abuja",
+    "explanation": "The capital of Nigeria is Abuja. Lagos is the biggest city, but the capital is Abuja."
+  },
+  {
+    "id": "en_cap_kenya",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of Kenya?",
+    "options": ["Mombasa", "Kisumu", "Nairobi", "Kampala"],
+    "answer": "Nairobi",
+    "explanation": "The capital of Kenya is Nairobi."
+  },
+  {
+    "id": "en_cap_ethiopia",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Ethiopia?",
+    "options": ["Nairobi", "Gondar", "Cairo", "Addis Ababa"],
+    "answer": "Addis Ababa",
+    "explanation": "The capital of Ethiopia is Addis Ababa."
+  },
+  {
+    "id": "en_cap_ghana",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Ghana?",
+    "options": ["Accra", "Kumasi", "Lagos", "Abuja"],
+    "answer": "Accra",
+    "explanation": "The capital of Ghana is Accra."
+  },
+  {
+    "id": "en_cap_morocco",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Morocco?",
+    "options": ["Casablanca", "Rabat", "Marrakesh", "Fez"],
+    "answer": "Rabat",
+    "explanation": "The capital of Morocco is Rabat. Casablanca is the largest city, but the capital is Rabat."
+  },
+  {
+    "id": "en_cap_algeria",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Algeria?",
+    "options": ["Oran", "Tunis", "Algiers", "Rabat"],
+    "answer": "Algiers",
+    "explanation": "The capital of Algeria is Algiers."
+  },
+  {
+    "id": "en_cap_tunisia",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Tunisia?",
+    "options": ["Sousse", "Algiers", "Tripoli", "Tunis"],
+    "answer": "Tunis",
+    "explanation": "The capital of Tunisia is Tunis."
+  },
+  {
+    "id": "en_cap_senegal",
+    "level": 4,
+    "category": "Geography",
+    "text": "What is the capital of Senegal?",
+    "options": ["Dakar", "Saint-Louis", "Accra", "Bamako"],
+    "answer": "Dakar",
+    "explanation": "The capital of Senegal is Dakar."
+  },
+  {
+    "id": "en_cap_tanzania",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Tanzania?",
+    "options": ["Dar es Salaam", "Dodoma", "Zanzibar", "Nairobi"],
+    "answer": "Dodoma",
+    "explanation": "The capital of Tanzania is Dodoma. Dar es Salaam is the largest city, but the official capital is Dodoma."
+  },
+  {
+    "id": "en_cap_rwanda",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Rwanda?",
+    "options": ["Kampala", "Nairobi", "Kigali", "Dar es Salaam"],
+    "answer": "Kigali",
+    "explanation": "The capital of Rwanda is Kigali."
+  },
+  {
+    "id": "en_cap_cameroon",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Cameroon?",
+    "options": ["Douala", "Lagos", "Accra", "Yaounde"],
+    "answer": "Yaounde",
+    "explanation": "The capital of Cameroon is Yaounde."
+  },
+  {
+    "id": "en_cap_libya",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Libya?",
+    "options": ["Tripoli", "Benghazi", "Cairo", "Tunis"],
+    "answer": "Tripoli",
+    "explanation": "The capital of Libya is Tripoli."
+  },
+  {
+    "id": "en_cap_sudan",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Sudan?",
+    "options": ["Port Sudan", "Khartoum", "Cairo", "Addis Ababa"],
+    "answer": "Khartoum",
+    "explanation": "The capital of Sudan is Khartoum."
+  },
+  {
+    "id": "en_cap_somalia",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Somalia?",
+    "options": ["Hargeisa", "Nairobi", "Mogadishu", "Addis Ababa"],
+    "answer": "Mogadishu",
+    "explanation": "The capital of Somalia is Mogadishu."
+  },
+  {
+    "id": "en_cap_mauritius",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Mauritius?",
+    "options": ["Curepipe", "Antananarivo", "Victoria", "Port Louis"],
+    "answer": "Port Louis",
+    "explanation": "The capital of Mauritius is Port Louis."
+  },
+  {
+    "id": "en_cap_togo",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Togo?",
+    "options": ["Lome", "Accra", "Lagos", "Cotonou"],
+    "answer": "Lome",
+    "explanation": "The capital of Togo is Lome."
+  },
+  {
+    "id": "en_cap_zimbabwe",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Zimbabwe?",
+    "options": ["Bulawayo", "Harare", "Lusaka", "Johannesburg"],
+    "answer": "Harare",
+    "explanation": "The capital of Zimbabwe is Harare."
+  },
+  {
+    "id": "en_cap_zambia",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Zambia?",
+    "options": ["Harare", "Nairobi", "Lusaka", "Kitwe"],
+    "answer": "Lusaka",
+    "explanation": "The capital of Zambia is Lusaka."
+  },
+  {
+    "id": "en_cap_new_zealand",
+    "level": 3,
+    "category": "Geography",
+    "text": "What is the capital of New Zealand?",
+    "options": ["Auckland", "Christchurch", "Canberra", "Wellington"],
+    "answer": "Wellington",
+    "explanation": "The capital of New Zealand is Wellington. Auckland is the largest city, but the capital is Wellington."
+  },
+  {
+    "id": "en_cap_fiji",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Fiji?",
+    "options": ["Suva", "Nadi", "Wellington", "Port Moresby"],
+    "answer": "Suva",
+    "explanation": "The capital of Fiji is Suva."
+  },
+  {
+    "id": "en_cap_papua_new_guinea",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the capital of Papua New Guinea?",
+    "options": ["Lae", "Port Moresby", "Suva", "Canberra"],
+    "answer": "Port Moresby",
+    "explanation": "The capital of Papua New Guinea is Port Moresby."
+  },
+  {
+    "id": "en_cap_south_africa",
+    "level": 5,
+    "category": "Geography",
+    "text": "What is the administrative capital of South Africa?",
+    "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+    "answer": "Pretoria",
+    "explanation": "South Africa has three capitals: Pretoria (administrative), Cape Town (legislative) and Bloemfontein (judicial)."
   }
 ]
