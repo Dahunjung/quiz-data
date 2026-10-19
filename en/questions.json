@@ -1571,5 +1571,755 @@
     "options": ["BLACKPINK", "BTS", "TWICE", "EXO"],
     "answer": "BTS",
     "explanation": "BTS's \"Dynamite\" was their first all-English single and a global hit."
+  },
+  {
+    "id": "en_flag_algeria",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Algeria", "Tunisia", "Morocco", "Pakistan"],
+    "answer": "Algeria",
+    "image": "images/flags/flag_Algeria.png",
+    "explanation": "Green and white vertical halves with a red crescent and star: that is Algeria."
+  },
+  {
+    "id": "en_flag_argentina",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Uruguay", "Argentina", "Honduras", "Greece"],
+    "answer": "Argentina",
+    "image": "images/flags/flag_argentina.png",
+    "explanation": "Light blue, white, light blue stripes with a golden Sun of May in the middle: Argentina."
+  },
+  {
+    "id": "en_flag_australia",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["New Zealand", "United Kingdom", "Australia", "Fiji"],
+    "answer": "Australia",
+    "image": "images/flags/flag_australia.png",
+    "explanation": "A blue flag with the Union Jack in the corner, a big star and the Southern Cross: Australia."
+  },
+  {
+    "id": "en_flag_bahrain",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Qatar", "Canada", "Austria", "Bahrain"],
+    "answer": "Bahrain",
+    "image": "images/flags/flag_bahrain.png",
+    "explanation": "A red flag with a white zigzag edge of five triangles on the left is Bahrain."
+  },
+  {
+    "id": "en_flag_bangladesh",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Bangladesh", "Japan", "Palau", "Pakistan"],
+    "answer": "Bangladesh",
+    "image": "images/flags/flag_bangladesh.png",
+    "explanation": "A green flag with a red disc, set slightly toward the left, is Bangladesh."
+  },
+  {
+    "id": "en_flag_bhutan",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Nepal", "Bhutan", "Mongolia", "Sri Lanka"],
+    "answer": "Bhutan",
+    "image": "images/flags/flag_bhutan.png",
+    "explanation": "A flag split diagonally into yellow and orange with a white dragon is Bhutan, the Land of the Thunder Dragon."
+  },
+  {
+    "id": "en_flag_brazil",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Portugal", "Colombia", "Brazil", "Argentina"],
+    "answer": "Brazil",
+    "image": "images/flags/flag_Brazil.png",
+    "explanation": "A green flag with a yellow diamond and a blue globe with stars is Brazil."
+  },
+  {
+    "id": "en_flag_cambodia",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Thailand", "Laos", "Vietnam", "Cambodia"],
+    "answer": "Cambodia",
+    "image": "images/flags/flag_cambodia.png",
+    "explanation": "A red and blue flag with the white Angkor Wat temple is Cambodia, the only national flag showing a building."
+  },
+  {
+    "id": "en_flag_cameroon",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Cameroon", "Senegal", "Mali", "Ghana"],
+    "answer": "Cameroon",
+    "image": "images/flags/flag_Cameroon.png",
+    "explanation": "Green, red and yellow vertical stripes with a yellow star on the red stripe: Cameroon."
+  },
+  {
+    "id": "en_flag_canada",
+    "level": 1,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Peru", "Canada", "Austria", "Turkey"],
+    "answer": "Canada",
+    "image": "images/flags/flag_canada.png",
+    "explanation": "Red, white and red vertical stripes with a red maple leaf: Canada."
+  },
+  {
+    "id": "en_flag_chile",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Czechia", "Cuba", "Chile", "United States"],
+    "answer": "Chile",
+    "image": "images/flags/flag_chile.png",
+    "explanation": "White over red with a white star in a blue square at the top left: Chile."
+  },
+  {
+    "id": "en_flag_colombia",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Venezuela", "Ecuador", "Armenia", "Colombia"],
+    "answer": "Colombia",
+    "image": "images/flags/flag_colombia.png",
+    "explanation": "A wide yellow stripe on top, then blue and red: Colombia."
+  },
+  {
+    "id": "en_flag_costa_rica",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Costa Rica", "Thailand", "Cuba", "Honduras"],
+    "answer": "Costa Rica",
+    "image": "images/flags/flag_Costa_Rica.png",
+    "explanation": "Blue, white, red, white, blue stripes with a wide red middle. Thailand uses the colors in the opposite order."
+  },
+  {
+    "id": "en_flag_croatia",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Netherlands", "Croatia", "Serbia", "Slovenia"],
+    "answer": "Croatia",
+    "image": "images/flags/flag_Croatia.png",
+    "explanation": "Red, white and blue stripes with a red-and-white checkered shield in the middle: Croatia."
+  },
+  {
+    "id": "en_flag_cuba",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Chile", "Czechia", "Cuba", "Philippines"],
+    "answer": "Cuba",
+    "image": "images/flags/flag_Cuba.png",
+    "explanation": "Blue and white stripes with a red triangle and a white star on the left: Cuba."
+  },
+  {
+    "id": "en_flag_czech",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Poland", "Chile", "Philippines", "Czechia"],
+    "answer": "Czechia",
+    "image": "images/flags/flag_czech.png",
+    "explanation": "White over red with a blue triangle on the left is the flag of Czechia."
+  },
+  {
+    "id": "en_flag_denmark",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Denmark", "Norway", "Sweden", "Switzerland"],
+    "answer": "Denmark",
+    "image": "images/flags/flag_denmark.png",
+    "explanation": "A red flag with an off-center white cross is Denmark, one of the oldest national flags in use."
+  },
+  {
+    "id": "en_flag_dominican_republic",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Haiti", "Dominican Republic", "Panama", "Paraguay"],
+    "answer": "Dominican Republic",
+    "image": "images/flags/flag_Dominican_Republic.png",
+    "explanation": "A white cross dividing blue and red squares with a coat of arms in the center: the Dominican Republic. The arms include a Bible."
+  },
+  {
+    "id": "en_flag_egypt",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Syria", "Iraq", "Egypt", "Yemen"],
+    "answer": "Egypt",
+    "image": "images/flags/flag_egypt.png",
+    "explanation": "Red, white and black stripes with a golden eagle in the middle: Egypt."
+  },
+  {
+    "id": "en_flag_fiji",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Australia", "New Zealand", "Samoa", "Fiji"],
+    "answer": "Fiji",
+    "image": "images/flags/flag_Fiji.png",
+    "explanation": "A light blue flag with the Union Jack and a shield on the right: Fiji."
+  },
+  {
+    "id": "en_flag_finland",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Finland", "Sweden", "Greece", "Iceland"],
+    "answer": "Finland",
+    "image": "images/flags/flag_finland.png",
+    "explanation": "A white flag with a blue cross is Finland. White stands for snow, blue for lakes and sky."
+  },
+  {
+    "id": "en_flag_georgia",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Switzerland", "Georgia", "Denmark", "United Kingdom"],
+    "answer": "Georgia",
+    "image": "images/flags/flag_Georgia.png",
+    "explanation": "A white flag with one big red cross and four small red crosses: Georgia."
+  },
+  {
+    "id": "en_flag_ghana",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Senegal", "Bolivia", "Ghana", "Ethiopia"],
+    "answer": "Ghana",
+    "image": "images/flags/flag_Ghana.png",
+    "explanation": "Red, yellow and green stripes with a black star in the middle: Ghana."
+  },
+  {
+    "id": "en_flag_greece",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Finland", "Uruguay", "Israel", "Greece"],
+    "answer": "Greece",
+    "image": "images/flags/flag_greece.png",
+    "explanation": "Nine blue and white stripes and a white cross in a blue corner: Greece."
+  },
+  {
+    "id": "en_flag_hungary",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Hungary", "Italy", "Bulgaria", "Iran"],
+    "answer": "Hungary",
+    "image": "images/flags/flag_hungary.png",
+    "explanation": "Red, white and green horizontal stripes: Hungary. Italy uses similar colors in vertical stripes."
+  },
+  {
+    "id": "en_flag_india",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Ireland", "India", "Ivory Coast", "Niger"],
+    "answer": "India",
+    "image": "images/flags/flag_india.png",
+    "explanation": "Saffron, white and green stripes with a blue wheel in the middle: India."
+  },
+  {
+    "id": "en_flag_iran",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Hungary", "Bulgaria", "Iran", "Tajikistan"],
+    "answer": "Iran",
+    "image": "images/flags/flag_iran.png",
+    "explanation": "Green, white and red stripes with a red emblem in the middle: Iran."
+  },
+  {
+    "id": "en_flag_iraq",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Egypt", "Syria", "Yemen", "Iraq"],
+    "answer": "Iraq",
+    "image": "images/flags/flag_iraq.png",
+    "explanation": "Red, white and black stripes with green Arabic writing on the white stripe: Iraq."
+  },
+  {
+    "id": "en_flag_israel",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Israel", "Greece", "Honduras", "Uruguay"],
+    "answer": "Israel",
+    "image": "images/flags/flag_Israel.png",
+    "explanation": "A white flag with two blue stripes and a blue Star of David: Israel."
+  },
+  {
+    "id": "en_flag_jamaica",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Bahamas", "Jamaica", "Guyana", "Trinidad and Tobago"],
+    "answer": "Jamaica",
+    "image": "images/flags/flag_Jamaica.png",
+    "explanation": "A yellow X dividing green and black triangles is Jamaica, famous for having no red, white or blue."
+  },
+  {
+    "id": "en_flag_kazakhstan",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Ukraine", "Uzbekistan", "Kazakhstan", "Palau"],
+    "answer": "Kazakhstan",
+    "image": "images/flags/flag_Kazakhstan.png",
+    "explanation": "A sky-blue flag with a golden sun and eagle and a pattern on the left: Kazakhstan."
+  },
+  {
+    "id": "en_flag_kenya",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Malawi", "Afghanistan", "Zimbabwe", "Kenya"],
+    "answer": "Kenya",
+    "image": "images/flags/flag_kenya.png",
+    "explanation": "Black, red and green stripes with a Maasai shield and spears in the middle: Kenya."
+  },
+  {
+    "id": "en_flag_laos",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Laos", "Cambodia", "Thailand", "Vietnam"],
+    "answer": "Laos",
+    "image": "images/flags/flag_laos.png",
+    "explanation": "Red, blue and red stripes with a white circle on the blue stripe: Laos."
+  },
+  {
+    "id": "en_flag_latvia",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Austria", "Latvia", "Lebanon", "Lithuania"],
+    "answer": "Latvia",
+    "image": "images/flags/flag_Latvia.png",
+    "explanation": "A dark red flag with one thin white stripe is Latvia. The white stripe is much narrower than Austria's."
+  },
+  {
+    "id": "en_flag_lebanon",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Canada", "Austria", "Lebanon", "Peru"],
+    "answer": "Lebanon",
+    "image": "images/flags/flag_Lebanon.png",
+    "explanation": "Red, white and red stripes with a green cedar tree on the white stripe: Lebanon."
+  },
+  {
+    "id": "en_flag_luxembourg",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Netherlands", "Russia", "Croatia", "Luxembourg"],
+    "answer": "Luxembourg",
+    "image": "images/flags/flag_Luxembourg.png",
+    "explanation": "Red, white and light blue stripes: Luxembourg. It looks like the Dutch flag but the blue is lighter."
+  },
+  {
+    "id": "en_flag_malaysia",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Malaysia", "United States", "Liberia", "Singapore"],
+    "answer": "Malaysia",
+    "image": "images/flags/flag_malaysia.png",
+    "explanation": "Red and white stripes with a yellow crescent and star in a blue corner: Malaysia."
+  },
+  {
+    "id": "en_flag_maldives",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Pakistan", "Maldives", "Turkey", "Algeria"],
+    "answer": "Maldives",
+    "image": "images/flags/flag_maldives.png",
+    "explanation": "A red flag with a green rectangle holding a white crescent: Maldives."
+  },
+  {
+    "id": "en_flag_mauritius",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Armenia", "Ukraine", "Mauritius", "Colombia"],
+    "answer": "Mauritius",
+    "image": "images/flags/flag_Mauritius.png",
+    "explanation": "Four horizontal stripes of red, blue, yellow and green: Mauritius."
+  },
+  {
+    "id": "en_flag_mexico",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Italy", "Iran", "Bulgaria", "Mexico"],
+    "answer": "Mexico",
+    "image": "images/flags/flag_mexico.png",
+    "explanation": "Green, white and red stripes with an eagle on a cactus holding a snake: Mexico."
+  },
+  {
+    "id": "en_flag_moldova",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Moldova", "Romania", "Chad", "Belgium"],
+    "answer": "Moldova",
+    "image": "images/flags/flag_Moldova.png",
+    "explanation": "Blue, yellow and red stripes with an eagle coat of arms: Moldova. It is like Romania's flag but has the emblem."
+  },
+  {
+    "id": "en_flag_mongolia",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Laos", "Mongolia", "Vietnam", "Kyrgyzstan"],
+    "answer": "Mongolia",
+    "image": "images/flags/flag_mongolia.png",
+    "explanation": "Red, blue and red vertical stripes with a yellow Soyombo symbol on the left: Mongolia."
+  },
+  {
+    "id": "en_flag_morocco",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Vietnam", "China", "Morocco", "Turkey"],
+    "answer": "Morocco",
+    "image": "images/flags/flag_morocco.png",
+    "explanation": "A red flag with a green outlined five-pointed star is Morocco. Vietnam has a solid yellow star."
+  },
+  {
+    "id": "en_flag_nepal",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Bhutan", "Sri Lanka", "Mongolia", "Nepal"],
+    "answer": "Nepal",
+    "image": "images/flags/flag_nepal.png",
+    "explanation": "The only national flag that is not a rectangle: two stacked triangles make Nepal's flag."
+  },
+  {
+    "id": "en_flag_newzealand",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["New Zealand", "Australia", "United Kingdom", "Fiji"],
+    "answer": "New Zealand",
+    "image": "images/flags/flag_newzealand.png",
+    "explanation": "A blue flag with the Union Jack and four red stars with white borders: New Zealand."
+  },
+  {
+    "id": "en_flag_norway",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Denmark", "Norway", "Iceland", "Finland"],
+    "answer": "Norway",
+    "image": "images/flags/flag_norway.png",
+    "explanation": "A red flag with a blue cross edged in white: Norway."
+  },
+  {
+    "id": "en_flag_oman",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["United Arab Emirates", "Kuwait", "Oman", "Bahrain"],
+    "answer": "Oman",
+    "image": "images/flags/flag_Oman.png",
+    "explanation": "A red band on the left with a white sword emblem, plus white, red and green stripes: Oman."
+  },
+  {
+    "id": "en_flag_panama",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Dominican Republic", "Cuba", "Chile", "Panama"],
+    "answer": "Panama",
+    "image": "images/flags/flag_Panama.png",
+    "explanation": "Four quarters: a blue star on white at top left and a red star on white at bottom right is Panama."
+  },
+  {
+    "id": "en_flag_papua_new_guinea",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Papua New Guinea", "Solomon Islands", "Vanuatu", "East Timor"],
+    "answer": "Papua New Guinea",
+    "image": "images/flags/flag_Papua_New_Guinea.png",
+    "explanation": "A diagonal split of red with a bird of paradise and black with five white stars: Papua New Guinea."
+  },
+  {
+    "id": "en_flag_peru",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Canada", "Peru", "Austria", "Lebanon"],
+    "answer": "Peru",
+    "image": "images/flags/flag_peru.png",
+    "explanation": "Red, white and red vertical stripes with a coat of arms: Peru. Canada has a maple leaf instead."
+  },
+  {
+    "id": "en_flag_philippines",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Czechia", "Cuba", "Philippines", "Chile"],
+    "answer": "Philippines",
+    "image": "images/flags/flag_philippines.png",
+    "explanation": "A white triangle with a yellow sun and three stars, blue on top and red below: the Philippines."
+  },
+  {
+    "id": "en_flag_portugal",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Brazil", "Italy", "Mexico", "Portugal"],
+    "answer": "Portugal",
+    "image": "images/flags/flag_portugal.png",
+    "explanation": "Green on the left and red on the right with a coat of arms on the border: Portugal."
+  },
+  {
+    "id": "en_flag_qatar",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Qatar", "Bahrain", "Latvia", "Austria"],
+    "answer": "Qatar",
+    "image": "images/flags/flag_Qatar.png",
+    "explanation": "A maroon flag with a white zigzag of nine triangles is Qatar. Bahrain's is red with five."
+  },
+  {
+    "id": "en_flag_romania",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["France", "Romania", "Belgium", "Italy"],
+    "answer": "Romania",
+    "image": "images/flags/flag_romania.png",
+    "explanation": "Blue, yellow and red vertical stripes: Romania. Chad and Andorra have very similar flags."
+  },
+  {
+    "id": "en_flag_rwanda",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Gabon", "Ghana", "Rwanda", "Ethiopia"],
+    "answer": "Rwanda",
+    "image": "images/flags/flag_Rwanda.png",
+    "explanation": "Sky blue, yellow and green stripes with a yellow sun at the top right: Rwanda."
+  },
+  {
+    "id": "en_flag_saudiarabia",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Pakistan", "Algeria", "Bangladesh", "Saudi Arabia"],
+    "answer": "Saudi Arabia",
+    "image": "images/flags/flag_saudiarabia.png",
+    "explanation": "A green flag with white Arabic writing and a sword: Saudi Arabia."
+  },
+  {
+    "id": "en_flag_senegal",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Senegal", "Mali", "Cameroon", "Ghana"],
+    "answer": "Senegal",
+    "image": "images/flags/flag_Senegal.png",
+    "explanation": "Green, yellow and red vertical stripes with a green star on the yellow: Senegal."
+  },
+  {
+    "id": "en_flag_serbia",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Russia", "Serbia", "Croatia", "Slovakia"],
+    "answer": "Serbia",
+    "image": "images/flags/flag_Serbia.png",
+    "explanation": "Red, blue and white stripes with a double-headed eagle emblem on the left: Serbia."
+  },
+  {
+    "id": "en_flag_singapore",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Indonesia", "Poland", "Singapore", "Turkey"],
+    "answer": "Singapore",
+    "image": "images/flags/flag_singapore.png",
+    "explanation": "Red over white with a white crescent and five stars at the top left: Singapore."
+  },
+  {
+    "id": "en_flag_slovakia",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Russia", "Slovenia", "Serbia", "Slovakia"],
+    "answer": "Slovakia",
+    "image": "images/flags/flag_Slovakia.png",
+    "explanation": "White, blue and red stripes with a shield showing a white double cross: Slovakia."
+  },
+  {
+    "id": "en_flag_somalia",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Somalia", "Palau", "Kazakhstan", "Israel"],
+    "answer": "Somalia",
+    "image": "images/flags/flag_Somalia.png",
+    "explanation": "A light blue flag with a single white star: Somalia."
+  },
+  {
+    "id": "en_flag_southafrica",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Zimbabwe", "South Africa", "Kenya", "Namibia"],
+    "answer": "South Africa",
+    "image": "images/flags/flag_southafrica.png",
+    "explanation": "A sideways green Y bringing several colors together is South Africa's flag."
+  },
+  {
+    "id": "en_flag_spain",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Portugal", "Colombia", "Spain", "Belgium"],
+    "answer": "Spain",
+    "image": "images/flags/flag_spain.png",
+    "explanation": "Red, yellow and red stripes with a coat of arms on the left: Spain. The yellow stripe is the widest."
+  },
+  {
+    "id": "en_flag_suriname",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Guyana", "Venezuela", "Costa Rica", "Suriname"],
+    "answer": "Suriname",
+    "image": "images/flags/flag_Suriname.png",
+    "explanation": "Green, white and red stripes with a yellow star on the red stripe: Suriname."
+  },
+  {
+    "id": "en_flag_syria",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Syria", "Egypt", "Iraq", "Yemen"],
+    "answer": "Syria",
+    "image": "images/flags/flag_Syria.png",
+    "explanation": "Red, white and black stripes with two green stars on the white stripe: Syria."
+  },
+  {
+    "id": "en_flag_tanzania",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Namibia", "Tanzania", "Jamaica", "Botswana"],
+    "answer": "Tanzania",
+    "image": "images/flags/flag_Tanzania.png",
+    "explanation": "A black diagonal band edged in yellow between green and blue triangles: Tanzania."
+  },
+  {
+    "id": "en_flag_thailand",
+    "level": 3,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Costa Rica", "Russia", "Thailand", "Netherlands"],
+    "answer": "Thailand",
+    "image": "images/flags/flag_thailand.png",
+    "explanation": "Red, white, blue, white and red stripes with a wide blue middle: Thailand."
+  },
+  {
+    "id": "en_flag_the_united_arab_emirates",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Kuwait", "Oman", "Jordan", "United Arab Emirates"],
+    "answer": "United Arab Emirates",
+    "image": "images/flags/flag_the_United_Arab_Emirates.png",
+    "explanation": "A red vertical band on the left and green, white and black stripes: the United Arab Emirates."
+  },
+  {
+    "id": "en_flag_togo",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Togo", "Ghana", "Liberia", "Cuba"],
+    "answer": "Togo",
+    "image": "images/flags/flag_Togo.png",
+    "explanation": "Five green and yellow stripes with a white star in a red corner: Togo."
+  },
+  {
+    "id": "en_flag_turkey",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Tunisia", "Turkey", "Maldives", "Morocco"],
+    "answer": "Turkey",
+    "image": "images/flags/flag_turkey.png",
+    "explanation": "A red flag with a white crescent and star is Turkey. Tunisia's sits inside a white circle."
+  },
+  {
+    "id": "en_flag_uk",
+    "level": 1,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Australia", "New Zealand", "United Kingdom", "United States"],
+    "answer": "United Kingdom",
+    "image": "images/flags/flag_uk.png",
+    "explanation": "Overlapping red crosses and white diagonals form the Union Jack, the flag of the United Kingdom."
+  },
+  {
+    "id": "en_flag_uruguay",
+    "level": 4,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Argentina", "Greece", "Honduras", "Uruguay"],
+    "answer": "Uruguay",
+    "image": "images/flags/flag_Uruguay.png",
+    "explanation": "White and blue stripes with a Sun of May in the top-left corner: Uruguay."
+  },
+  {
+    "id": "en_flag_uzbekistan",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Uzbekistan", "Kazakhstan", "Tajikistan", "Iran"],
+    "answer": "Uzbekistan",
+    "image": "images/flags/flag_Uzbekistan.png",
+    "explanation": "Blue, white and green stripes with a crescent and twelve stars: Uzbekistan."
+  },
+  {
+    "id": "en_flag_venezuela",
+    "level": 5,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["Colombia", "Venezuela", "Ecuador", "Armenia"],
+    "answer": "Venezuela",
+    "image": "images/flags/flag_Venezuela.png",
+    "explanation": "Yellow, blue and red stripes with an arc of eight white stars on the blue: Venezuela."
+  },
+  {
+    "id": "en_flag_vietnam",
+    "level": 2,
+    "category": "Geography",
+    "text": "Which country does this flag belong to?",
+    "options": ["China", "Morocco", "Vietnam", "Turkey"],
+    "answer": "Vietnam",
+    "image": "images/flags/flag_vietnam.png",
+    "explanation": "A red flag with one big yellow star is Vietnam. China has five stars."
   }
 ]

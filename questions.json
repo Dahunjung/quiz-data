@@ -4965,5 +4965,755 @@
     "options": ["카프(KAPF)", "구인회", "백조파", "청록파"],
     "answer": "구인회",
     "explanation": "구인회는 1930년대 모더니즘 문학을 이끈 모임이에요."
+  },
+  {
+    "id": "flag_algeria",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["알제리", "튀니지", "모로코", "파키스탄"],
+    "answer": "알제리",
+    "image": "images/flags/flag_Algeria.png",
+    "explanation": "왼쪽은 초록, 오른쪽은 하양이고 가운데에 빨간 초승달과 별이 있으면 알제리 국기예요."
+  },
+  {
+    "id": "flag_argentina",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["우루과이", "아르헨티나", "온두라스", "그리스"],
+    "answer": "아르헨티나",
+    "image": "images/flags/flag_argentina.png",
+    "explanation": "하늘색·하양·하늘색 가로줄 가운데에 노란 '5월의 태양'이 있으면 아르헨티나 국기예요."
+  },
+  {
+    "id": "flag_australia",
+    "level": 2,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["뉴질랜드", "영국", "호주", "피지"],
+    "answer": "호주",
+    "image": "images/flags/flag_australia.png",
+    "explanation": "파란 바탕의 왼쪽 위에 영국 국기가 있고, 큰 별과 남십자성 별들이 있으면 호주 국기예요."
+  },
+  {
+    "id": "flag_bahrain",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["카타르", "캐나다", "오스트리아", "바레인"],
+    "answer": "바레인",
+    "image": "images/flags/flag_bahrain.png",
+    "explanation": "빨간 바탕에 왼쪽에 하얀 톱니(삼각형 5개) 모양이 있으면 바레인 국기예요."
+  },
+  {
+    "id": "flag_bangladesh",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["방글라데시", "일본", "팔라우", "파키스탄"],
+    "answer": "방글라데시",
+    "image": "images/flags/flag_bangladesh.png",
+    "explanation": "초록 바탕에 빨간 원이 있으면 방글라데시 국기예요. 원은 가운데에서 살짝 왼쪽에 있어요."
+  },
+  {
+    "id": "flag_bhutan",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["네팔", "부탄", "몽골", "스리랑카"],
+    "answer": "부탄",
+    "image": "images/flags/flag_bhutan.png",
+    "explanation": "노랑과 주황이 대각선으로 나뉘고 하얀 용이 그려진 국기는 부탄이에요. 부탄은 '용의 나라'로 불려요."
+  },
+  {
+    "id": "flag_brazil",
+    "level": 2,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["포르투갈", "콜롬비아", "브라질", "아르헨티나"],
+    "answer": "브라질",
+    "image": "images/flags/flag_Brazil.png",
+    "explanation": "초록 바탕에 노란 마름모, 그 안에 별이 있는 파란 원이 있으면 브라질 국기예요."
+  },
+  {
+    "id": "flag_cambodia",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["태국", "라오스", "베트남", "캄보디아"],
+    "answer": "캄보디아",
+    "image": "images/flags/flag_cambodia.png",
+    "explanation": "빨강과 파랑 바탕 위에 하얀 앙코르와트 사원이 그려진 국기는 캄보디아예요. 건물이 그려진 국기는 캄보디아뿐이에요."
+  },
+  {
+    "id": "flag_cameroon",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["카메룬", "세네갈", "말리", "가나"],
+    "answer": "카메룬",
+    "image": "images/flags/flag_Cameroon.png",
+    "explanation": "초록·빨강·노랑 세로줄 가운데 빨간 줄에 노란 별이 있으면 카메룬 국기예요."
+  },
+  {
+    "id": "flag_canada",
+    "level": 1,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["페루", "캐나다", "오스트리아", "튀르키예"],
+    "answer": "캐나다",
+    "image": "images/flags/flag_canada.png",
+    "explanation": "빨강·하양·빨강 세로줄 가운데에 빨간 단풍잎이 있으면 캐나다 국기예요."
+  },
+  {
+    "id": "flag_chile",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["체코", "쿠바", "칠레", "미국"],
+    "answer": "칠레",
+    "image": "images/flags/flag_chile.png",
+    "explanation": "위는 하양, 아래는 빨강이고 왼쪽 위 파란 네모 안에 하얀 별이 있으면 칠레 국기예요."
+  },
+  {
+    "id": "flag_colombia",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["베네수엘라", "에콰도르", "아르메니아", "콜롬비아"],
+    "answer": "콜롬비아",
+    "image": "images/flags/flag_colombia.png",
+    "explanation": "위쪽 절반이 노랑, 그 아래가 파랑과 빨강이에요. 노란 줄이 가장 넓으면 콜롬비아 국기예요."
+  },
+  {
+    "id": "flag_costa_rica",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["코스타리카", "태국", "쿠바", "온두라스"],
+    "answer": "코스타리카",
+    "image": "images/flags/flag_Costa_Rica.png",
+    "explanation": "파랑·하양·빨강·하양·파랑 가로줄이에요. 가운데 빨간 줄이 가장 넓고, 태국과는 색 순서가 반대예요."
+  },
+  {
+    "id": "flag_croatia",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["네덜란드", "크로아티아", "세르비아", "슬로베니아"],
+    "answer": "크로아티아",
+    "image": "images/flags/flag_Croatia.png",
+    "explanation": "빨강·하양·파랑 가로줄 가운데에 빨강과 하양 체크무늬 문장이 있으면 크로아티아 국기예요."
+  },
+  {
+    "id": "flag_cuba",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["칠레", "체코", "쿠바", "필리핀"],
+    "answer": "쿠바",
+    "image": "images/flags/flag_Cuba.png",
+    "explanation": "파랑과 하양 가로줄 왼쪽에 빨간 삼각형과 하얀 별이 있으면 쿠바 국기예요."
+  },
+  {
+    "id": "flag_czech",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["폴란드", "칠레", "필리핀", "체코"],
+    "answer": "체코",
+    "image": "images/flags/flag_czech.png",
+    "explanation": "위는 하양, 아래는 빨강이고 왼쪽에 파란 삼각형이 있으면 체코 국기예요."
+  },
+  {
+    "id": "flag_denmark",
+    "level": 2,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["덴마크", "노르웨이", "스웨덴", "스위스"],
+    "answer": "덴마크",
+    "image": "images/flags/flag_denmark.png",
+    "explanation": "빨간 바탕에 하얀 십자가가 왼쪽으로 치우쳐 있으면 덴마크 국기예요. 세계에서 가장 오래된 국기 중 하나로 꼽혀요."
+  },
+  {
+    "id": "flag_dominican_republic",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["아이티", "도미니카 공화국", "파나마", "파라과이"],
+    "answer": "도미니카 공화국",
+    "image": "images/flags/flag_Dominican_Republic.png",
+    "explanation": "하얀 십자가가 파랑·빨강 네모를 나누고 가운데에 문장이 있으면 도미니카 공화국 국기예요. 문장 안에 성경책이 있어요."
+  },
+  {
+    "id": "flag_egypt",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["시리아", "이라크", "이집트", "예멘"],
+    "answer": "이집트",
+    "image": "images/flags/flag_egypt.png",
+    "explanation": "빨강·하양·검정 가로줄 가운데에 금빛 독수리가 있으면 이집트 국기예요."
+  },
+  {
+    "id": "flag_fiji",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["호주", "뉴질랜드", "사모아", "피지"],
+    "answer": "피지",
+    "image": "images/flags/flag_Fiji.png",
+    "explanation": "하늘색 바탕에 왼쪽 위 영국 국기와 오른쪽의 방패 문장이 있으면 피지 국기예요."
+  },
+  {
+    "id": "flag_finland",
+    "level": 2,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["핀란드", "스웨덴", "그리스", "아이슬란드"],
+    "answer": "핀란드",
+    "image": "images/flags/flag_finland.png",
+    "explanation": "하얀 바탕에 파란 십자가가 있으면 핀란드 국기예요. 하양은 눈, 파랑은 호수와 하늘을 뜻한다고 해요."
+  },
+  {
+    "id": "flag_georgia",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["스위스", "조지아", "덴마크", "영국"],
+    "answer": "조지아",
+    "image": "images/flags/flag_Georgia.png",
+    "explanation": "하얀 바탕에 커다란 빨간 십자가와 작은 십자가 네 개가 있으면 조지아 국기예요."
+  },
+  {
+    "id": "flag_ghana",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["세네갈", "볼리비아", "가나", "에티오피아"],
+    "answer": "가나",
+    "image": "images/flags/flag_Ghana.png",
+    "explanation": "빨강·노랑·초록 가로줄 가운데에 검은 별이 있으면 가나 국기예요."
+  },
+  {
+    "id": "flag_greece",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["핀란드", "우루과이", "이스라엘", "그리스"],
+    "answer": "그리스",
+    "image": "images/flags/flag_greece.png",
+    "explanation": "파랑·하양 줄무늬 아홉 줄과 왼쪽 위 파란 네모 속 하얀 십자가가 있으면 그리스 국기예요."
+  },
+  {
+    "id": "flag_hungary",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["헝가리", "이탈리아", "불가리아", "이란"],
+    "answer": "헝가리",
+    "image": "images/flags/flag_hungary.png",
+    "explanation": "빨강·하양·초록 가로줄이면 헝가리 국기예요. 이탈리아와 색은 같지만 줄 방향이 달라요."
+  },
+  {
+    "id": "flag_india",
+    "level": 2,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["아일랜드", "인도", "코트디부아르", "니제르"],
+    "answer": "인도",
+    "image": "images/flags/flag_india.png",
+    "explanation": "주황·하양·초록 가로줄 가운데에 파란 바퀴(아소카 차크라)가 있으면 인도 국기예요."
+  },
+  {
+    "id": "flag_iran",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["헝가리", "불가리아", "이란", "타지키스탄"],
+    "answer": "이란",
+    "image": "images/flags/flag_iran.png",
+    "explanation": "초록·하양·빨강 가로줄 가운데에 붉은 문양이 있으면 이란 국기예요."
+  },
+  {
+    "id": "flag_iraq",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["이집트", "시리아", "예멘", "이라크"],
+    "answer": "이라크",
+    "image": "images/flags/flag_iraq.png",
+    "explanation": "빨강·하양·검정 가로줄의 하얀 줄에 초록색 아랍어 글씨가 있으면 이라크 국기예요."
+  },
+  {
+    "id": "flag_israel",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["이스라엘", "그리스", "온두라스", "우루과이"],
+    "answer": "이스라엘",
+    "image": "images/flags/flag_Israel.png",
+    "explanation": "하얀 바탕에 위아래 파란 줄과 가운데 파란 다윗의 별이 있으면 이스라엘 국기예요."
+  },
+  {
+    "id": "flag_jamaica",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["바하마", "자메이카", "가이아나", "트리니다드 토바고"],
+    "answer": "자메이카",
+    "image": "images/flags/flag_Jamaica.png",
+    "explanation": "노란 X자가 초록과 검정 삼각형을 나누면 자메이카 국기예요. 빨강·하양·파랑이 하나도 없는 국기로 유명해요."
+  },
+  {
+    "id": "flag_kazakhstan",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["우크라이나", "우즈베키스탄", "카자흐스탄", "팔라우"],
+    "answer": "카자흐스탄",
+    "image": "images/flags/flag_Kazakhstan.png",
+    "explanation": "하늘색 바탕에 황금빛 태양과 독수리, 왼쪽의 무늬가 있으면 카자흐스탄 국기예요."
+  },
+  {
+    "id": "flag_kenya",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["말라위", "아프가니스탄", "짐바브웨", "케냐"],
+    "answer": "케냐",
+    "image": "images/flags/flag_kenya.png",
+    "explanation": "검정·빨강·초록 가로줄 가운데에 마사이 전사의 방패와 창이 있으면 케냐 국기예요."
+  },
+  {
+    "id": "flag_laos",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["라오스", "캄보디아", "태국", "베트남"],
+    "answer": "라오스",
+    "image": "images/flags/flag_laos.png",
+    "explanation": "빨강·파랑·빨강 가로줄 가운데 파란 줄에 하얀 동그라미가 있으면 라오스 국기예요."
+  },
+  {
+    "id": "flag_latvia",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["오스트리아", "라트비아", "레바논", "리투아니아"],
+    "answer": "라트비아",
+    "image": "images/flags/flag_Latvia.png",
+    "explanation": "짙은 붉은색 바탕 가운데에 가는 하얀 줄이 하나 있으면 라트비아 국기예요. 오스트리아보다 하얀 줄이 훨씬 좁아요."
+  },
+  {
+    "id": "flag_lebanon",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["캐나다", "오스트리아", "레바논", "페루"],
+    "answer": "레바논",
+    "image": "images/flags/flag_Lebanon.png",
+    "explanation": "빨강·하양·빨강 가로줄의 하얀 줄에 초록색 삼나무(백향목)가 있으면 레바논 국기예요."
+  },
+  {
+    "id": "flag_luxembourg",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["네덜란드", "러시아", "크로아티아", "룩셈부르크"],
+    "answer": "룩셈부르크",
+    "image": "images/flags/flag_Luxembourg.png",
+    "explanation": "빨강·하양·하늘색 가로줄이면 룩셈부르크 국기예요. 네덜란드와 비슷하지만 파랑이 더 연해요."
+  },
+  {
+    "id": "flag_malaysia",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["말레이시아", "미국", "라이베리아", "싱가포르"],
+    "answer": "말레이시아",
+    "image": "images/flags/flag_malaysia.png",
+    "explanation": "빨강·하양 줄무늬에 왼쪽 위 파란 네모 속 노란 초승달과 별이 있으면 말레이시아 국기예요."
+  },
+  {
+    "id": "flag_maldives",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["파키스탄", "몰디브", "튀르키예", "알제리"],
+    "answer": "몰디브",
+    "image": "images/flags/flag_maldives.png",
+    "explanation": "빨간 바탕에 초록 직사각형, 그 안에 하얀 초승달이 있으면 몰디브 국기예요."
+  },
+  {
+    "id": "flag_mauritius",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["아르메니아", "우크라이나", "모리셔스", "콜롬비아"],
+    "answer": "모리셔스",
+    "image": "images/flags/flag_Mauritius.png",
+    "explanation": "빨강·파랑·노랑·초록 네 가지 색 가로줄이 차례로 있으면 모리셔스 국기예요."
+  },
+  {
+    "id": "flag_mexico",
+    "level": 2,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["이탈리아", "이란", "불가리아", "멕시코"],
+    "answer": "멕시코",
+    "image": "images/flags/flag_mexico.png",
+    "explanation": "초록·하양·빨강 세로줄 가운데에 선인장 위의 독수리가 뱀을 물고 있는 그림이 있으면 멕시코 국기예요."
+  },
+  {
+    "id": "flag_moldova",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["몰도바", "루마니아", "차드", "벨기에"],
+    "answer": "몰도바",
+    "image": "images/flags/flag_Moldova.png",
+    "explanation": "파랑·노랑·빨강 세로줄 가운데에 독수리 문장이 있으면 몰도바 국기예요. 루마니아 국기와 비슷하지만 문장이 있어요."
+  },
+  {
+    "id": "flag_mongolia",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["라오스", "몽골", "베트남", "키르기스스탄"],
+    "answer": "몽골",
+    "image": "images/flags/flag_mongolia.png",
+    "explanation": "빨강·파랑·빨강 세로줄이고 왼쪽 빨간 줄에 노란 소욤보 문양이 있으면 몽골 국기예요."
+  },
+  {
+    "id": "flag_morocco",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["베트남", "중국", "모로코", "튀르키예"],
+    "answer": "모로코",
+    "image": "images/flags/flag_morocco.png",
+    "explanation": "빨간 바탕에 초록색 선으로 그린 오각별이 있으면 모로코 국기예요. 베트남은 속이 꽉 찬 노란 별이에요."
+  },
+  {
+    "id": "flag_nepal",
+    "level": 2,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["부탄", "스리랑카", "몽골", "네팔"],
+    "answer": "네팔",
+    "image": "images/flags/flag_nepal.png",
+    "explanation": "세계에서 유일하게 사각형이 아닌 국기예요. 삼각형 두 개를 겹친 모양이면 네팔이에요."
+  },
+  {
+    "id": "flag_newzealand",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["뉴질랜드", "호주", "영국", "피지"],
+    "answer": "뉴질랜드",
+    "image": "images/flags/flag_newzealand.png",
+    "explanation": "파란 바탕에 영국 국기와 하얀 테두리의 빨간 별 네 개가 있으면 뉴질랜드 국기예요."
+  },
+  {
+    "id": "flag_norway",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["덴마크", "노르웨이", "아이슬란드", "핀란드"],
+    "answer": "노르웨이",
+    "image": "images/flags/flag_norway.png",
+    "explanation": "빨간 바탕에 하얀 테두리가 있는 파란 십자가가 있으면 노르웨이 국기예요."
+  },
+  {
+    "id": "flag_oman",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["아랍에미리트", "쿠웨이트", "오만", "바레인"],
+    "answer": "오만",
+    "image": "images/flags/flag_Oman.png",
+    "explanation": "왼쪽 빨간 칸 위에 하얀 칼 문장이 있고 하양·빨강·초록 줄이 이어지면 오만 국기예요."
+  },
+  {
+    "id": "flag_panama",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["도미니카 공화국", "쿠바", "칠레", "파나마"],
+    "answer": "파나마",
+    "image": "images/flags/flag_Panama.png",
+    "explanation": "네 칸으로 나뉘고, 왼쪽 위 하얀 칸에 파란 별, 오른쪽 아래 하얀 칸에 빨간 별이 있으면 파나마 국기예요."
+  },
+  {
+    "id": "flag_papua_new_guinea",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["파푸아뉴기니", "솔로몬 제도", "바누아투", "동티모르"],
+    "answer": "파푸아뉴기니",
+    "image": "images/flags/flag_Papua_New_Guinea.png",
+    "explanation": "대각선으로 나뉜 빨강(극락조)과 검정(하얀 별 다섯 개)이 파푸아뉴기니 국기예요."
+  },
+  {
+    "id": "flag_peru",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["캐나다", "페루", "오스트리아", "레바논"],
+    "answer": "페루",
+    "image": "images/flags/flag_peru.png",
+    "explanation": "빨강·하양·빨강 세로줄 가운데에 문장이 있으면 페루 국기예요. 캐나다는 단풍잎이에요."
+  },
+  {
+    "id": "flag_philippines",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["체코", "쿠바", "필리핀", "칠레"],
+    "answer": "필리핀",
+    "image": "images/flags/flag_philippines.png",
+    "explanation": "왼쪽 하얀 삼각형 안에 노란 태양과 별 세 개, 위는 파랑 아래는 빨강이면 필리핀 국기예요."
+  },
+  {
+    "id": "flag_portugal",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["브라질", "이탈리아", "멕시코", "포르투갈"],
+    "answer": "포르투갈",
+    "image": "images/flags/flag_portugal.png",
+    "explanation": "왼쪽은 초록, 오른쪽은 빨강이고 경계에 문장이 있으면 포르투갈 국기예요."
+  },
+  {
+    "id": "flag_qatar",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["카타르", "바레인", "라트비아", "오스트리아"],
+    "answer": "카타르",
+    "image": "images/flags/flag_Qatar.png",
+    "explanation": "자주색(적갈색) 바탕에 하얀 톱니(삼각형 9개)가 있으면 카타르 국기예요. 바레인은 빨강이고 톱니가 5개예요."
+  },
+  {
+    "id": "flag_romania",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["프랑스", "루마니아", "벨기에", "이탈리아"],
+    "answer": "루마니아",
+    "image": "images/flags/flag_romania.png",
+    "explanation": "파랑·노랑·빨강 세로줄이면 루마니아 국기예요. 차드, 안도라 국기와 아주 비슷해요."
+  },
+  {
+    "id": "flag_rwanda",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["가봉", "가나", "르완다", "에티오피아"],
+    "answer": "르완다",
+    "image": "images/flags/flag_Rwanda.png",
+    "explanation": "하늘색·노랑·초록 가로줄에 오른쪽 위 노란 태양이 있으면 르완다 국기예요."
+  },
+  {
+    "id": "flag_saudiarabia",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["파키스탄", "알제리", "방글라데시", "사우디아라비아"],
+    "answer": "사우디아라비아",
+    "image": "images/flags/flag_saudiarabia.png",
+    "explanation": "초록 바탕에 하얀 아랍어 글씨와 칼이 있으면 사우디아라비아 국기예요."
+  },
+  {
+    "id": "flag_senegal",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["세네갈", "말리", "카메룬", "가나"],
+    "answer": "세네갈",
+    "image": "images/flags/flag_Senegal.png",
+    "explanation": "초록·노랑·빨강 세로줄 가운데 노란 줄에 초록 별이 있으면 세네갈 국기예요."
+  },
+  {
+    "id": "flag_serbia",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["러시아", "세르비아", "크로아티아", "슬로바키아"],
+    "answer": "세르비아",
+    "image": "images/flags/flag_Serbia.png",
+    "explanation": "빨강·파랑·하양 가로줄 왼쪽에 쌍두 독수리 문장이 있으면 세르비아 국기예요."
+  },
+  {
+    "id": "flag_singapore",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["인도네시아", "폴란드", "싱가포르", "튀르키예"],
+    "answer": "싱가포르",
+    "image": "images/flags/flag_singapore.png",
+    "explanation": "위는 빨강, 아래는 하양이고 왼쪽 위에 하얀 초승달과 별 다섯 개가 있으면 싱가포르 국기예요."
+  },
+  {
+    "id": "flag_slovakia",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["러시아", "슬로베니아", "세르비아", "슬로바키아"],
+    "answer": "슬로바키아",
+    "image": "images/flags/flag_Slovakia.png",
+    "explanation": "하양·파랑·빨강 가로줄 왼쪽에 하얀 이중 십자가가 있는 방패가 있으면 슬로바키아 국기예요."
+  },
+  {
+    "id": "flag_somalia",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["소말리아", "팔라우", "카자흐스탄", "이스라엘"],
+    "answer": "소말리아",
+    "image": "images/flags/flag_Somalia.png",
+    "explanation": "하늘색 바탕에 하얀 별 하나가 있으면 소말리아 국기예요."
+  },
+  {
+    "id": "flag_southafrica",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["짐바브웨", "남아프리카공화국", "케냐", "나미비아"],
+    "answer": "남아프리카공화국",
+    "image": "images/flags/flag_southafrica.png",
+    "explanation": "눕혀진 Y자 모양 초록 띠가 여러 색을 한곳에 모으는 국기는 남아프리카공화국이에요."
+  },
+  {
+    "id": "flag_spain",
+    "level": 2,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["포르투갈", "콜롬비아", "스페인", "벨기에"],
+    "answer": "스페인",
+    "image": "images/flags/flag_spain.png",
+    "explanation": "빨강·노랑·빨강 가로줄에 왼쪽 문장이 있으면 스페인 국기예요. 가운데 노란 줄이 가장 넓어요."
+  },
+  {
+    "id": "flag_suriname",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["가이아나", "베네수엘라", "코스타리카", "수리남"],
+    "answer": "수리남",
+    "image": "images/flags/flag_Suriname.png",
+    "explanation": "초록·하양·빨강 가로줄 가운데 빨간 줄에 노란 별이 있으면 수리남 국기예요."
+  },
+  {
+    "id": "flag_syria",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["시리아", "이집트", "이라크", "예멘"],
+    "answer": "시리아",
+    "image": "images/flags/flag_Syria.png",
+    "explanation": "빨강·하양·검정 가로줄의 하얀 줄에 초록 별 두 개가 있으면 시리아 국기예요."
+  },
+  {
+    "id": "flag_tanzania",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["나미비아", "탄자니아", "자메이카", "보츠와나"],
+    "answer": "탄자니아",
+    "image": "images/flags/flag_Tanzania.png",
+    "explanation": "초록과 파랑 삼각형 사이를 노란 테두리의 검은 대각선 띠가 가로지르면 탄자니아 국기예요."
+  },
+  {
+    "id": "flag_thailand",
+    "level": 3,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["코스타리카", "러시아", "태국", "네덜란드"],
+    "answer": "태국",
+    "image": "images/flags/flag_thailand.png",
+    "explanation": "빨강·하양·파랑·하양·빨강 가로줄에서 가운데 파란 줄이 가장 넓으면 태국 국기예요."
+  },
+  {
+    "id": "flag_the_united_arab_emirates",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["쿠웨이트", "오만", "요르단", "아랍에미리트"],
+    "answer": "아랍에미리트",
+    "image": "images/flags/flag_the_United_Arab_Emirates.png",
+    "explanation": "왼쪽에 빨간 세로줄, 오른쪽에 초록·하양·검정 가로줄이 있으면 아랍에미리트 국기예요."
+  },
+  {
+    "id": "flag_togo",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["토고", "가나", "라이베리아", "쿠바"],
+    "answer": "토고",
+    "image": "images/flags/flag_Togo.png",
+    "explanation": "초록·노랑 줄무늬 다섯 줄과 왼쪽 위 빨간 네모 속 하얀 별이 있으면 토고 국기예요."
+  },
+  {
+    "id": "flag_turkey",
+    "level": 2,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["튀니지", "튀르키예", "몰디브", "모로코"],
+    "answer": "튀르키예",
+    "image": "images/flags/flag_turkey.png",
+    "explanation": "빨간 바탕에 하얀 초승달과 별이 있으면 튀르키예 국기예요. 튀니지는 하얀 원 안에 들어 있어요."
+  },
+  {
+    "id": "flag_uk",
+    "level": 1,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["호주", "뉴질랜드", "영국", "미국"],
+    "answer": "영국",
+    "image": "images/flags/flag_uk.png",
+    "explanation": "빨간 십자가와 하얀 대각선이 겹쳐진 모양은 영국 국기 '유니언 잭'이에요."
+  },
+  {
+    "id": "flag_uruguay",
+    "level": 4,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["아르헨티나", "그리스", "온두라스", "우루과이"],
+    "answer": "우루과이",
+    "image": "images/flags/flag_Uruguay.png",
+    "explanation": "하양·파랑 가로 줄무늬와 왼쪽 위 하얀 칸의 '5월의 태양'이 있으면 우루과이 국기예요."
+  },
+  {
+    "id": "flag_uzbekistan",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["우즈베키스탄", "카자흐스탄", "타지키스탄", "이란"],
+    "answer": "우즈베키스탄",
+    "image": "images/flags/flag_Uzbekistan.png",
+    "explanation": "파랑·하양·초록 가로줄 위에 초승달과 별 열두 개가 있으면 우즈베키스탄 국기예요."
+  },
+  {
+    "id": "flag_venezuela",
+    "level": 5,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["콜롬비아", "베네수엘라", "에콰도르", "아르메니아"],
+    "answer": "베네수엘라",
+    "image": "images/flags/flag_Venezuela.png",
+    "explanation": "노랑·파랑·빨강 가로줄 가운데 파란 줄에 하얀 별 여덟 개가 반원으로 있으면 베네수엘라 국기예요."
+  },
+  {
+    "id": "flag_vietnam",
+    "level": 2,
+    "category": "지리",
+    "text": "이 국기는 어느 나라의 것일까요?",
+    "options": ["중국", "모로코", "베트남", "튀르키예"],
+    "answer": "베트남",
+    "image": "images/flags/flag_vietnam.png",
+    "explanation": "빨간 바탕에 노란 별 하나가 있으면 베트남 국기예요. 중국은 별이 다섯 개예요."
   }
 ]
